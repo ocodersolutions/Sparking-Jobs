@@ -189,6 +189,11 @@ li {
 .body_content_slider {
     // margin-bottom: 25px;
 }
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+  }
 .product_item_content {
     padding: 5px;
     background: #fff;
@@ -507,5 +512,149 @@ form .form_group_post {
     font-weight: 500;
 }
 
-
 /*************** end style job posting page ***************/
+
+/*************** style post request page ***************/
+
+.select_allproposal {
+    background: #fff;
+}
+.select_allproposal span {
+    display: inline-block;
+    margin: 15px 15px 0px 20px;
+    padding-bottom: 5px;
+    font-weight: 500;
+}
+.select_allproposal span:first-child {
+    border-bottom: 3px solid #e96163;
+}
+.pr_item_content {
+    margin-top: 15px;
+    background: #fff;
+    padding: 20px;
+}
+.pr_item_content_top {
+    
+}
+.pr_item_content_top > img {
+    box-shadow: 0 0 20px;
+    float: left;
+    margin-right: 10px;
+}
+.post_request_item_title {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ea6267;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ea6267;
+}
+.post_request_item_content {
+    text-align: justify;
+}
+.pr_item_content_left {
+    width: 50%;
+    float: left;
+}
+.make_an_offer {
+    background: #ec6166;
+    width: 120px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 5px 0;
+    border-radius: 3px;
+    margin: 10px 0;
+}
+.live_chat {
+    width: 110px;
+    border: 2px solid #ea6267;
+    padding: 5px;
+    text-align: center;
+    border-radius: 3px;
+}
+.live_chat i {
+    margin-right: 5px;
+    color: #cccccc;
+}
+.pr_item_content_right {
+    float: right;
+    width: 50%;
+    padding-left: 4%;
+    font-weight: 500;
+}
+.pr_item_content_right p {
+    margin: 5px 0;
+}
+.pr_start span {
+    display: inline-block;
+    width: 30px;
+    line-height: 30px;
+    background: #f77d0e;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    border-radius: 3px;
+}
+.pr_start {
+    margin: 5px 0;
+}
+.pr_start i {
+    color: #f77d0e;
+}
+.request_pagination {
+    margin: 50px 0;
+    text-align: center;
+}
+ul.pagination {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+ul.pagination li {display: inline;}
+
+ul.pagination li a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #ea6267;
+    font-weight: bold;
+}
+
+ul.pagination li a.active {
+    background-color: #4CAF50;
+    color: white;
+    border: 1px solid #4CAF50;
+}
+
+ul.pagination li a:hover:not(.active) {background-color: #ddd;}
+.pagination .red_color_pg {
+    color: #ea6267;
+}
+.post_request_sidebar_content {
+    background: #fff;
+}
+.pr_sidebar_one {
+    padding: 30px 20px 20px 20px;
+    border-bottom: 1px solid #ea6267;
+}
+.pr_filter {
+    color: #ea6267;
+    font-weight: bold;
+    display: inline-block;
+    float: left;
+    font-size: 18px;
+}
+.pr_save_filter {
+    display: inline-block;
+    float: right;
+    padding: 5px;
+    font-weight: bold;
+    color: white;
+    background: #ea6267;
+    border-radius: 3px;
+}
+
+/*************** end style post request page ***************/
