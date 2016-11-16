@@ -9,6 +9,7 @@ li {
     clear: both;
 }
 
+/****************** stype homepage *******************/
 #header_top {
     background: #283c4f;
     height: 82px;
@@ -105,7 +106,9 @@ li {
     color: white;
 }
 #body_content_top {
-    background: #f9b5ba;
+    background: url(../images/body_bg.jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;
     padding-top: 30px;
 }
 .body_sidebar_one {
@@ -284,3 +287,225 @@ li {
         line-height: 40px;
     }
 }
+/****************** end stype homepage *******************/
+
+/***************** style job posting page ***************/
+
+form .number_form {
+    background: url('../images/bg_flower.png');
+    background-repeat: no-repeat;
+    float: left;
+    height: 28px;
+    padding-left: 10px;
+    line-height: 24px;
+    width: 10%;
+    color: white;
+    font-size: 20px;
+}
+form .form_group_post {
+    float: right;
+    width: 90%;
+    margin-bottom: 70px;
+}
+.form_group_post .label_form {
+    font-weight: 800;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.form_group_post #select_op_form {
+    border-radius: 15px;
+    border: 1px solid #a7a6a6;
+}
+.form_group_post .project_name {
+    display: block;
+    font-weight: 500;
+}
+.form_group_post input[type=text] {
+    width: 100%;
+    border: 1px solid #a7a6a6;
+    height: 34px;
+    border-radius: 15px;
+    padding: 0 15px;
+}
+.form_group_post .label_three {
+    text-align: right;
+    width: 100%;
+    font-weight: 500;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+.form_group_post .describe_form {
+    margin-top: 30px;
+}
+.form_group_post .textarea_form {
+    border: 1px solid #a7a6a6;
+    border-radius: 30px;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 60px;
+}
+.form_group_post button {
+    width: 35%;
+    border: 1px solid #a7a6a6;
+    border-radius: 15px;
+    background: #fff;
+    height: 30px;
+    font-weight: bold;
+    vertical-align: top;
+    margin-left: 20px;
+}
+.form_group_post button i {
+    margin-right: 5px;
+}
+.form_group_post .upload_form {
+    width: 60%;
+    padding-left: 30px;
+    font-weight: 500;
+}
+.form_group_post input[type=radio] {
+    opacity: 0;
+    margin-top: 0px;
+    line-height: 17px;
+    display: block;
+    float: left;
+    height: 15px;
+}
+.form_group_post .label_radio {
+    display: block;
+    float: left;
+    font-size: 13px;
+    margin-right: 15px;
+    line-height: 20px;
+    position: relative;
+    font-weight: 500;
+    padding-left: 10px;
+}
+.form_group_post .label_radio:before {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 0;
+    top: 0;
+    margin-left: -20px;
+    border: 3px solid #ea6267;
+    border-radius: 50%;
+    background-color: none;
+    -webkit-transition: border 0.15s ease-in-out;
+    -o-transition: border 0.15s ease-in-out;
+    transition: border 0.15s ease-in-out;
+}
+.form_group_post .label_radio:after {
+    display: inline-block;
+    position: absolute;
+    content: " ";
+    width: 20px;
+    height: 20px;
+    left: 0;
+    top: 0;
+    margin-left: -20px;
+    border-radius: 50%;
+    background-color: #ea6267;
+    -webkit-transform: scale(0, 0);
+    -ms-transform: scale(0, 0);
+    -o-transform: scale(0, 0);
+    transform: scale(0, 0);
+    -webkit-transition: -webkit-transform 0.1s cubic-bezier(0.8, -0.33, 0.2, 1.33);
+    -moz-transition: -moz-transform 0.1s cubic-bezier(0.8, -0.33, 0.2, 1.33);
+    -o-transition: -o-transform 0.1s cubic-bezier(0.8, -0.33, 0.2, 1.33);
+    transition: transform 0.1s cubic-bezier(0.8, -0.33, 0.2, 1.33);
+}
+.form_group_post input[type="radio"]:checked + .label_radio:after {
+    webkit-transform: scale(1, 1);
+    -ms-transform: scale(1, 1);
+    -o-transform: scale(1, 1);
+    transform: scale(1, 1);
+    background: #fff;
+    border: 5px solid #ea6267;
+}
+.full_radio_button {
+    margin-bottom: 20px;
+}
+.select_op_full {
+    margin-bottom: 70px;
+}
+.select_op_inr {
+    width: 20%;
+    height: 34px;
+    border: 1px solid #a7a6a6;
+    border-radius: 15px;
+    padding: 0 10px;
+}
+.select_op_price {
+    width: 50%;
+    height: 34px;
+    border: 1px solid #a7a6a6;
+    border-radius: 15px;
+    padding: 0 10px;
+}
+.form_group_post input[type=submit] {
+    border: 1px solid #ea6267;
+    border-radius: 15px;
+    height: 40px;
+    width: 30%;
+    background: #ea6267;
+    color: white;
+    font-weight: 700;
+    vertical-align: top;
+}
+.form_group_post p {
+    display: inline-block;
+    width: 60%;
+    margin-left: 50px;
+    font-weight: 500;
+}
+.form_group_post p span {
+    color: #ea6267;
+}
+.posting_sidebar {
+    border: 1px solid #fff;
+    margin-bottom: 40px;
+}
+.post_sidebar_title {
+    background: #ea6267;
+    height: 34px;
+    line-height: 34px;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+}
+.post_sidebar_content {
+    padding: 50px 20px 30px 20px;
+}
+.post_sidebar_content p {
+    margin: 0 0 10px;
+    display: inline-block;
+    width: 90%;
+    padding-left: 10px;
+    font-weight: 500;
+}
+.post_sidebar_content i {
+    vertical-align: top;
+    color: #ea6267;
+    font-size: 20px;
+}
+.post_sidebar_content span {
+    padding-left: 10px;
+    color: #ea6267;
+    font-weight: 700;
+}
+.no_opacity {
+    opacity: 0;
+}
+.posting_sidebar img {
+    width: 100%;
+}
+.p_content_sidebar_post {
+    padding: 30px 20px;
+    text-align: justify;
+    font-weight: 500;
+}
+
+
+/*************** end style job posting page ***************/
