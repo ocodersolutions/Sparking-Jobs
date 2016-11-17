@@ -599,7 +599,12 @@ form .form_group_post {
 /*************** end style job posting page ***************/
 
 /*************** style post request page ***************/
-
+#body_content_top_pr {
+    background-repeat: repeat-y;
+    background-size: 100%;
+    padding-top: 30px;
+    background-image: url(../images/body_bg.jpg);
+}
 .select_allproposal {
     background: #fff;
 }
@@ -742,6 +747,41 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 }
 .carousel .carousel-indicators li {
     border: 2px solid red;
+}
+.pr_sidebar_two {
+    padding: 0 20px 40px 20px;
+}
+.pr_range_slider {
+    margin: 20px 0;
+}
+.pr_range_title {
+    font-weight: 800;
+}
+.pr_range_slider .ui-widget.ui-widget-content {
+    height: 7px;
+}
+.pr_range_slider .ui-slider-horizontal .ui-slider-range {
+    background: #ec6166;
+    height: 5px;
+    top: 0px;
+}
+.pr_range_slider .ui-state-default, .ui-widget-content .ui-state-default {
+    border: 2px solid #ec6166 !important;
+    border-radius: 50%;
+    background: #fff !important;
+    top: -9px !important;
+    width: 22px !important;
+    height: 22px !important;
+}
+.pr_range_price {
+    text-align: center;
+    margin-top: 10px;
+}
+.pr_range_slider input {
+    color: #000 ;
+    font-weight: 500 ;
+    text-align: center;
+    border: 0;
 }
 
 /*************** end style post request page ***************/

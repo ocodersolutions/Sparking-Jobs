@@ -10,6 +10,8 @@
 	<link rel="stylesheet" href="assets/css/bootstrap-theme.min.css">
 	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
 
+	<link rel="stylesheet" href="assets/css/jquery-ui.css">
+
 	<script type="text/javascript" src="assets/js/jquery-1.12.3.min.js"></script>	
 
 </head>
@@ -36,7 +38,7 @@
 	<div id="body_content">
 		<div class="container-fluid">
 			<div class="row">
-				<div id="body_content_top">
+				<div id="body_content_top_pr">
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-8 post_request_content">
@@ -217,6 +219,46 @@
 										<span class="pr_save_filter">Save Filters</span>
 										<div class="clr"></div>
 									</div>
+									<div class="pr_sidebar_two">
+										<div class="pr_range_slider">
+											<p class="pr_range_title">Amount</p>
+											<div id="slider_range_amount"></div>
+											<p class="pr_range_price">
+												<input type="text" id="pr_amount" readonly>
+											</p>
+										</div>	
+										<div class="pr_range_slider">
+											<p class="pr_range_title">Reviews</p>
+											<div id="slider_range_review"></div>
+											<p class="pr_range_price">
+												<input type="text" id="pr_review" readonly>
+											</p>
+										</div>	
+										<div class="pr_range_slider">
+											<p class="pr_range_title">Ratings</p>
+											<div id="slider_range_rating"></div>
+											<p class="pr_range_price">
+												<input type="text" id="pr_rating" readonly>
+											</p>
+										</div>	
+										<div class="pr_range_slider">
+											<p class="pr_range_title">Days to Complete</p>
+											<div id="slider_range_complete"></div>
+											<p class="pr_range_price">
+												<input type="text" id="pr_complete" readonly>
+											</p>
+										</div>	
+										<div class="pr_range_slider">
+											<p class="pr_range_title">Initial Milestone</p>
+											<div id="slider_range_milestone"></div>
+											<p class="pr_range_price">
+												<input type="text" id="pr_milestone" readonly>
+											</p>
+										</div>	
+										<div class="pr_after_range">
+											
+										</div>								
+									</div>
 								</div>
 							</div>
 						</div>
@@ -328,9 +370,11 @@
 			</div>
 		</div>
 	</div>
+	
 
 	<script type="text/javascript" src="assets/js/custom.js"></script>
 	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/jquery-ui.js"></script>
 
 </body>
 </html>
