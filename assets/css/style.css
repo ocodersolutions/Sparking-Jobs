@@ -27,6 +27,19 @@ li {
     text-align: center;
     line-height: 82px;
 }
+.header_logo h3 {
+    color: #eb6367;
+    font-weight: bold;
+}
+.header_logo h3:after {
+    content: "";
+    height: 1px;
+    width: 100px;
+    border-bottom: 4px solid #eb6367;
+    display: block;
+    margin: 0 auto;
+    padding-top: 5px;
+}
 .header_bot {
     box-shadow: 1px 1px 10px;
 }
@@ -658,3 +671,13 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 }
 
 /*************** end style post request page ***************/
+
+#before-after .view.view-before {
+    background: #293b4f;
+}
+.right-position.content-before-after .content-right h3 {
+  color: #c5d8ec;
+}
+.content-detail-wrapper h3 {
+  color: #c5d8ec;
+}
