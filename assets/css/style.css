@@ -372,6 +372,9 @@ li {
     .header_menu_op div {
         line-height: 40px;
     }
+    .product_item_content {
+        min-height: 290px;
+    }
 }
 /****************** end stype homepage *******************/
 
@@ -742,13 +745,3 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 }
 
 /*************** end style post request page ***************/
-
-#before-after .view.view-before {
-    background: #293b4f;
-}
-.right-position.content-before-after .content-right h3 {
-  color: #c5d8ec;
-}
-.content-detail-wrapper h3 {
-  color: #c5d8ec;
-}
