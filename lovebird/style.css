@@ -434,9 +434,7 @@ embed, iframe, object {
 	opacity:1;
 	right:15px;
 }
-#header-wrapper .login-form-header-wrapper a.register.register-btn.my_login {
-	border-radius: 0;
-}
+
 /* ---------------------------------------- */
 /* P R E L O A D I N G   S T Y L E
 /* ---------------------------------------- */
@@ -1290,7 +1288,7 @@ header {
 }
 .content-before-after .content-right h3{
 	color: #c5d8ec;
-	font-size: 24px;
+	font-size: 27px;
 	margin:0 0 40px;
 	text-align: left;
 }
@@ -1299,13 +1297,13 @@ header {
 }
 .content-before-after.left-position .content-right h3{
 	color: #c5d8ec;
-    font-size: 24px;
+    font-size: 27px;
     margin: 0 0 40px;
     text-align: left;
 }
 .content-detail-wrapper h3 {
 	color: #c5d8ec;
-    font-size: 24px;
+    font-size: 27px;
     margin: 0 0 40px;
     text-align: left;
 }
@@ -1316,6 +1314,7 @@ header {
     padding: 5px 15px;
     font-weight: 500;
     color: #c5d8ec;
+    font-size: 20px;
 }
 .content-before-after.left-position .btn-header{
 	border-radius: 0;
@@ -1323,6 +1322,7 @@ header {
     color: #c5d8ec;
     font-weight: 500;
     padding: 5px 15px;
+    font-size: 20px;
 }
 .content-before-after.left-position .btn-header:hover{
 	color:#fff;
