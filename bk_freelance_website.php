@@ -9,8 +9,8 @@
 <html lang="en-US">
 <!--<![endif]-->
 <head>
-    	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1 ,user-scalable=no">
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1 ,user-scalable=no">
 
   <!-- style for index -->
 
@@ -23,43 +23,43 @@
 
   <!-- end style for index -->
 
-	<title>Freelancer | Freelance Web Site</title>
-	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<link rel="pingback" href="http://richpersian.com/demo/xmlrpc.php">
-    <link href="http://richpersian.com/demo/wp-content/themes/freelanceengine/img/favicon.png" rel="shortcut icon" type="image/x-icon">	<!--[if lt IE 9]>
+    <title>Freelancer | Freelance Web Site</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="http://richpersian.com/demo/xmlrpc.php">
+    <link href="http://richpersian.com/demo/wp-content/themes/freelanceengine/img/favicon.png" rel="shortcut icon" type="image/x-icon"> <!--[if lt IE 9]>
                 <script src="http://richpersian.com/demo/wp-content/themes/freelanceengine/includes/aecore/assets/js/html5.js"></script>
-            <![endif]-->		<script type="text/javascript" id="current_user">
+            <![endif]-->        <script type="text/javascript" id="current_user">
             var currentUser = {"id":0,"ID":0};
             var is_mobile = false            </script>
-        		<script type="text/javascript" id="current_user">
+                <script type="text/javascript" id="current_user">
             var currentUser = {"id":0,"ID":0};
             var is_mobile = false            </script>
-        		<script type="text/javascript" id="current_user">
+                <script type="text/javascript" id="current_user">
             var currentUser = {"id":0,"ID":0};
             var is_mobile = false            </script>
-        		<script type="text/javascript" id="current_user">
+                <script type="text/javascript" id="current_user">
             var currentUser = {"id":0,"ID":0};
             var is_mobile = false            </script>
         <meta name='robots' content='noindex,follow' />
 <link rel="alternate" type="application/rss+xml" title="Freelancer &raquo; Feed" href="http://richpersian.com/demo/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Freelancer &raquo; Comments Feed" href="http://richpersian.com/demo/comments/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Freelancer &raquo; Home Comments Feed" href="http://richpersian.com/demo/home/feed/" />
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/richpersian.com\/demo\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.4"}};
-			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<style type="text/css">
+        <script type="text/javascript">
+            window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/richpersian.com\/demo\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.4"}};
+            !function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+        </script>
+        <style type="text/css">
 img.wp-smiley,
 img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
 }
 
 
@@ -169,8 +169,8 @@ img.emoji {
         list-style: none
     }
 </style>
-		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+        <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+        <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
 <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://richpersian.com/demo/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://richpersian.com/demo/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.1.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
 <style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1416796736588{background-image: url(http://enginethemes.com/demo/freelanceengine/wp-content/uploads/2014/11/fre7.jpg?id=339) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style id="css-customize">body {
   background-color: #ffffff;
@@ -384,25 +384,25 @@ ul.wpb_tabs_nav.profile > li > a:hover {
 <body class="home page page-id-8 page-template page-template-page-home page-template-page-home-php wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive two-column right-sidebar">
 <!-- MENU DOOR -->
 <div class="overlay overlay-scale">
-	<div class="container">
-    	<div class="row">
-        	<div class="col-md-12">
-            	<a href="javascript:void(0);" class="overlay-close"><i class="fa fa-times"></i></a>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <a href="javascript:void(0);" class="overlay-close"><i class="fa fa-times"></i></a>
             </div>
         </div>
     </div>
     <!-- MENU -->
-	<nav class="menu-fullscreen"><ul id="menu-menu" class="menu-main"><li id="menu-item-577" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-has-children menu-item-577 active "><a href="http://richpersian.com/demo/">HOME</a>
+    <nav class="menu-fullscreen"><ul id="menu-menu" class="menu-main"><li id="menu-item-577" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-has-children menu-item-577 active "><a href="http://richpersian.com/demo/">HOME</a>
 <ul class="sub-menu">
-	<li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-584"><a href="http://richpersian.com/demo/home2/">Home 2</a></li>
-	<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-585"><a href="http://richpersian.com/demo/home3/">Home 3</a></li>
+    <li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-584"><a href="http://richpersian.com/demo/home2/">Home 2</a></li>
+    <li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-585"><a href="http://richpersian.com/demo/home3/">Home 3</a></li>
 </ul>
 </li>
 <li id="menu-item-579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-579"><a href="http://richpersian.com/demo/about-us/">ABOUT</a></li>
 <li id="menu-item-567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-567"><a href="http://richpersian.com/demo/projects">PROJECTS</a>
 <ul class="sub-menu">
-	<li id="menu-item-568" class="menu-item menu-item-type-taxonomy menu-item-object-project_type menu-item-568"><a href="http://richpersian.com/demo/project_type/full-time/">Full time</a></li>
-	<li id="menu-item-569" class="menu-item menu-item-type-taxonomy menu-item-object-project_type menu-item-569"><a href="http://richpersian.com/demo/project_type/urgent/">Urgent</a></li>
+    <li id="menu-item-568" class="menu-item menu-item-type-taxonomy menu-item-object-project_type menu-item-568"><a href="http://richpersian.com/demo/project_type/full-time/">Full time</a></li>
+    <li id="menu-item-569" class="menu-item menu-item-type-taxonomy menu-item-object-project_type menu-item-569"><a href="http://richpersian.com/demo/project_type/urgent/">Urgent</a></li>
 </ul>
 </li>
 <li id="menu-item-576" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-576"><a href="http://richpersian.com/demo/profiles">Profiles</a></li>
@@ -477,7 +477,7 @@ ul.wpb_tabs_nav.profile > li > a:hover {
 <!-- MENU DOOR / END -->
 <!-- HEADER -->
 <header id="header-wrapper" data-size="big" class="trans-color">
-	<div class="top-header">
+    <div class="top-header">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-xs-4">
@@ -491,8 +491,8 @@ ul.wpb_tabs_nav.profile > li > a:hover {
                     <a href="http://richpersian.com/demo" class="logo site_logo_black"><img alt="Freelancer" src="http://richpersian.com/demo/wp-content/themes/freelanceengine/img/logo-fre-black.png" /></a>
                                 </div>
                 <div class="col-md-4 col-xs-4">
-                	<div class="login-form-header-wrapper">
-						                            <div class="non-login">
+                    <div class="login-form-header-wrapper">
+                                                    <div class="non-login">
                                 <a href="#" class="login login-btn">LOGIN</a>
                                 <a href="#" class="register register-btn">SIGN UP</a>
                             </div>
@@ -502,7 +502,7 @@ ul.wpb_tabs_nav.profile > li > a:hover {
         </div>
     </div>
 </header><!-- HEADER / END -->
-	<iframe frameborder="0" src="lovebird/index.html" style="width: 100%; height: 100%;" scrolling="no"></iframe>
+    <iframe frameborder="0" src="http://richpersian.com/demo/lovebirds/" style="width: 100%; height: 100%;" scrolling="no"></iframe>
  
 
 
@@ -551,174 +551,174 @@ ul.wpb_tabs_nav.profile > li > a:hover {
         </ul>
     </div>
 </div>
-	
+    
 </script>
 
 
 <div class="modal fade" id="modal_register">
-	<input type="hidden" value="Work" class="work-text" name="worktext" />
-	<input type="hidden" value="Hire" class="hire-text" name="hiretext" />
+    <input type="hidden" value="Work" class="work-text" name="worktext" />
+    <input type="hidden" value="Hire" class="hire-text" name="hiretext" />
 
-	<div class="modal-dialog">
-		<div class="modal-content">
-			<div class="modal-header">
-				<button type="button" class="close" data-dismiss="modal">
-					<i class="fa fa-times"></i>
-				</button>
-				<h4 class="modal-title">Become our member!</h4>
-			</div>
-			<div class="modal-body">
-				<form role="form" id="signup_form" class="auth-form signup_form">
-                	<p class="user-type">
-                		<span class="user-text">What are you looking for?</span>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <i class="fa fa-times"></i>
+                </button>
+                <h4 class="modal-title">Become our member!</h4>
+            </div>
+            <div class="modal-body">
+                <form role="form" id="signup_form" class="auth-form signup_form">
+                    <p class="user-type">
+                        <span class="user-text">What are you looking for?</span>
 
                             <input type="checkbox" class="sign-up-switch" name="modal-check" value="employer"/>
                             <span class="user-role text hire">
                                 Hire                            </span>
-                	</p>
-                	<input type="hidden" name="role" id="role" value="employer" />
-					<div class="form-group">
-						<label for="user_login">Username</label>
-						<input type="text" class="form-control" id="user_login" name="user_login" placeholder="Enter username">
-					</div>
-					<div class="form-group">
-						<label for="register_user_email">Email address</label>
-						<input type="email" class="form-control" id="register_user_email" name="user_email" placeholder="Enter email">
-					</div>
-					<div class="form-group">
-						<label for="register_user_pass">Password</label>
-						<input type="password" class="form-control" id="register_user_pass" name="user_pass" placeholder="Password">
-					</div>
-					<div class="form-group">
-						<label for="repeat_pass">Retype Password</label>
-						<input type="password" class="form-control" id="repeat_pass" name="repeat_pass" placeholder="Retype password">
-					</div>
-					<div class="clearfix"></div>
-					                    					<button type="submit" class="btn-submit btn-sumary btn-sub-create">
-						Sign up					</button>
-										<p class="text-term">
-								                    By creating an account, you agree to our <a href="http://richpersian.com/demo">Term of Use and Privacy policy</a>		                					</p>
-								<div class="socials-head">You can also sign in by:</div>
-				<ul class="list-social-login">
-				    	<li>
-	    		<a href="#" class="fb facebook_auth_btn ">
-	    			<i class="fa fa-facebook"></i>
-	    			<span class="social-text">Facebook</span>
-	    		</a>
-	    	</li>
-	    		    		        <li>
-	        	<a href="#" class="gplus gplus_login_btn " >
-	        		<i class="fa fa-google-plus"></i>
-	        		<span class="social-text">Plus</span>
-	        	</a>
-	        </li>
-	        	    		        <li>
-	        	<a href="http://richpersian.com/demo?action=twitterauth" class="tw ">
-	        		<i class="fa fa-twitter"></i>
-	        		<span class="social-text">Twitter</span>
-	        	</a>
-	        </li>
-	        	        			<li>
-	    		<a href="#" class="lkin ">
-	    			<i class="fa fa-linkedin"></i>
-	    			<span class="social-text">Linkedin</span>
-	    		</a>
-	    	</li>
-				    </ul> 
-					</form>
-			</div>
-		</div><!-- /.modal-content -->
-	</div><!-- /.modal-dialog register -->
+                    </p>
+                    <input type="hidden" name="role" id="role" value="employer" />
+                    <div class="form-group">
+                        <label for="user_login">Username</label>
+                        <input type="text" class="form-control" id="user_login" name="user_login" placeholder="Enter username">
+                    </div>
+                    <div class="form-group">
+                        <label for="register_user_email">Email address</label>
+                        <input type="email" class="form-control" id="register_user_email" name="user_email" placeholder="Enter email">
+                    </div>
+                    <div class="form-group">
+                        <label for="register_user_pass">Password</label>
+                        <input type="password" class="form-control" id="register_user_pass" name="user_pass" placeholder="Password">
+                    </div>
+                    <div class="form-group">
+                        <label for="repeat_pass">Retype Password</label>
+                        <input type="password" class="form-control" id="repeat_pass" name="repeat_pass" placeholder="Retype password">
+                    </div>
+                    <div class="clearfix"></div>
+                                                            <button type="submit" class="btn-submit btn-sumary btn-sub-create">
+                        Sign up                 </button>
+                                        <p class="text-term">
+                                                    By creating an account, you agree to our <a href="http://richpersian.com/demo">Term of Use and Privacy policy</a>                                           </p>
+                                <div class="socials-head">You can also sign in by:</div>
+                <ul class="list-social-login">
+                        <li>
+                <a href="#" class="fb facebook_auth_btn ">
+                    <i class="fa fa-facebook"></i>
+                    <span class="social-text">Facebook</span>
+                </a>
+            </li>
+                                    <li>
+                <a href="#" class="gplus gplus_login_btn " >
+                    <i class="fa fa-google-plus"></i>
+                    <span class="social-text">Plus</span>
+                </a>
+            </li>
+                                    <li>
+                <a href="http://richpersian.com/demo?action=twitterauth" class="tw ">
+                    <i class="fa fa-twitter"></i>
+                    <span class="social-text">Twitter</span>
+                </a>
+            </li>
+                                    <li>
+                <a href="#" class="lkin ">
+                    <i class="fa fa-linkedin"></i>
+                    <span class="social-text">Linkedin</span>
+                </a>
+            </li>
+                    </ul> 
+                    </form>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog register -->
 </div><!-- /.modal -->
 <div class="modal fade" id="modal_login">
-	<div class="modal-dialog">
-		<div class="modal-content">
-			<div class="modal-header">
-				<button type="button" class="close" data-dismiss="modal">
-					<i class="fa fa-times"></i>
-				</button>
-				<h4 class="modal-title">Welcome back!</h4>
-			</div>
-			<div class="modal-body">
-				<form role="form" id="signin_form" class="auth-form signin_form">
-					<div class="form-group">
-						<label for="login_user_login">Your User Name or Email</label>
-						<input type="text" class="form-control" id="login_user_login" name="user_login" placeholder="Enter username">
-					</div>
-					<div class="form-group">
-						<label for="login_user_pass">Your Password</label>
-						<input type="password" class="form-control" id="login_user_pass" name="user_pass" placeholder="Password">
-					</div>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <i class="fa fa-times"></i>
+                </button>
+                <h4 class="modal-title">Welcome back!</h4>
+            </div>
+            <div class="modal-body">
+                <form role="form" id="signin_form" class="auth-form signin_form">
+                    <div class="form-group">
+                        <label for="login_user_login">Your User Name or Email</label>
+                        <input type="text" class="form-control" id="login_user_login" name="user_login" placeholder="Enter username">
+                    </div>
+                    <div class="form-group">
+                        <label for="login_user_pass">Your Password</label>
+                        <input type="password" class="form-control" id="login_user_pass" name="user_pass" placeholder="Password">
+                    </div>
                     <div class="clearfix"></div>
-					<button type="submit" class="btn-submit btn-sumary btn-sub-create">
-						Sign in					</button>
+                    <button type="submit" class="btn-submit btn-sumary btn-sub-create">
+                        Sign in                 </button>
                     <a class="show-forgot-form" href="#">Forgot Password?</a>
-                        			<div class="socials-head">You can also sign in by:</div>
-				<ul class="list-social-login">
-				    	<li>
-	    		<a href="#" class="fb facebook_auth_btn ">
-	    			<i class="fa fa-facebook"></i>
-	    			<span class="social-text">Facebook</span>
-	    		</a>
-	    	</li>
-	    		    		        <li>
-	        	<a href="#" class="gplus gplus_login_btn " >
-	        		<i class="fa fa-google-plus"></i>
-	        		<span class="social-text">Plus</span>
-	        	</a>
-	        </li>
-	        	    		        <li>
-	        	<a href="http://richpersian.com/demo?action=twitterauth" class="tw ">
-	        		<i class="fa fa-twitter"></i>
-	        		<span class="social-text">Twitter</span>
-	        	</a>
-	        </li>
-	        	        			<li>
-	    		<a href="#" class="lkin ">
-	    			<i class="fa fa-linkedin"></i>
-	    			<span class="social-text">Linkedin</span>
-	    		</a>
-	    	</li>
-				    </ul> 
-					</form>
-			</div>
-		</div><!-- /.modal-content -->
-	</div><!-- /.modal-dialog login -->
+                                    <div class="socials-head">You can also sign in by:</div>
+                <ul class="list-social-login">
+                        <li>
+                <a href="#" class="fb facebook_auth_btn ">
+                    <i class="fa fa-facebook"></i>
+                    <span class="social-text">Facebook</span>
+                </a>
+            </li>
+                                    <li>
+                <a href="#" class="gplus gplus_login_btn " >
+                    <i class="fa fa-google-plus"></i>
+                    <span class="social-text">Plus</span>
+                </a>
+            </li>
+                                    <li>
+                <a href="http://richpersian.com/demo?action=twitterauth" class="tw ">
+                    <i class="fa fa-twitter"></i>
+                    <span class="social-text">Twitter</span>
+                </a>
+            </li>
+                                    <li>
+                <a href="#" class="lkin ">
+                    <i class="fa fa-linkedin"></i>
+                    <span class="social-text">Linkedin</span>
+                </a>
+            </li>
+                    </ul> 
+                    </form>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog login -->
 </div><!-- /.modal -->
 <div class="modal fade" id="modal_change_pass">
-	<div class="modal-dialog">
-		<div class="modal-content">
-			<div class="modal-header">
-				<button type="button" class="close" data-dismiss="modal">
-					<!-- <span aria-hidden="true">&times;</span><span class="sr-only">
-					Close</span> -->
-					<i class="fa fa-times"></i>
-				</button>
-				<h4 class="modal-title">Change your password.</h4>
-			</div>
-			<div class="modal-body">
-				<form role="form" id="chane_pass_form" class="auth-form chane_pass_form">
-					<div class="form-group">
-						<label for="old_password">Old Password</label>
-						<input type="password" class="form-control" id="old_password" name="old_password" placeholder="Enter your old password">
-					</div>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <!-- <span aria-hidden="true">&times;</span><span class="sr-only">
+                    Close</span> -->
+                    <i class="fa fa-times"></i>
+                </button>
+                <h4 class="modal-title">Change your password.</h4>
+            </div>
+            <div class="modal-body">
+                <form role="form" id="chane_pass_form" class="auth-form chane_pass_form">
+                    <div class="form-group">
+                        <label for="old_password">Old Password</label>
+                        <input type="password" class="form-control" id="old_password" name="old_password" placeholder="Enter your old password">
+                    </div>
                     <div class="clearfix"></div>
-					<div class="form-group">
-						<label for="new_password">Your New Password</label>
-						<input type="password" class="form-control" id="new_password" name="new_password" placeholder="Enter your new password">
-					</div>	
+                    <div class="form-group">
+                        <label for="new_password">Your New Password</label>
+                        <input type="password" class="form-control" id="new_password" name="new_password" placeholder="Enter your new password">
+                    </div>  
                     <div class="clearfix"></div>
-					<div class="form-group">
-						<label for="renew_password">Retype New Password</label>
-						<input type="password" class="form-control" id="renew_password" name="renew_password" placeholder="Retype your new password">
-					</div>		
+                    <div class="form-group">
+                        <label for="renew_password">Retype New Password</label>
+                        <input type="password" class="form-control" id="renew_password" name="renew_password" placeholder="Retype your new password">
+                    </div>      
                     <div class="clearfix"></div>
-					<button type="submit" class="btn-submit btn-sumary btn-sub-create btn-change-pass">
-						Change password					</button>
-				</form>	
-			</div>
-		</div><!-- /.modal-content -->
-	</div><!-- /.modal-dialog -->
+                    <button type="submit" class="btn-submit btn-sumary btn-sub-create btn-change-pass">
+                        Change password                 </button>
+                </form> 
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
 </div><!-- /.modal --><script type="text/template" id="ae-post-loop">
     <div class="row">
         <div class="col-md-2 col-xs-3">
@@ -735,19 +735,19 @@ ul.wpb_tabs_nav.profile > li > a:hover {
         <div class="col-md-9 col-xs-8">
             <div class="blog-content">
                 <span class="tag">
-                	{{= category_name }}
+                    {{= category_name }}
                 </span>
                 <span class="cmt">
-                	<i class="fa fa-comments"></i> {{= comment_number }}
+                    <i class="fa fa-comments"></i> {{= comment_number }}
                 </span>
                 <h2 class="title-blog">
-	                <a href="{{= permalink }}">
-	               		{{= post_title }}
-	                </a>
+                    <a href="{{= permalink }}">
+                        {{= post_title }}
+                    </a>
                 </h2>
-				<div class="post-excerpt">
-					{{= post_excerpt }}
-				</div>
+                <div class="post-excerpt">
+                    {{= post_excerpt }}
+                </div>
                 <a href="{{= permalink }}" class="read-more">
                     READ MORE<i class="fa fa-arrow-circle-o-right"></i>
                 </a>
@@ -854,7 +854,7 @@ ul.wpb_tabs_nav.profile > li > a:hover {
     </li>
 
 </script><script type="text/template" id="ae-profile-loop">
- 	<div class="profile-content">
+    <div class="profile-content">
         <ul class="top-profile">
             <li class="img-avatar">
                 <a href="{{= author_link }}"><span class="avatar-profile">{{= et_avatar}} </span></a>
@@ -886,13 +886,13 @@ ul.wpb_tabs_nav.profile > li > a:hover {
             </li>
         </ul> 
     </div>
-</script><script type="text/template" id="ae-portfolio-loop"> 	
-	<a href="{{= the_post_thumbnail_full }}" title="{{= post_title }}" class="image-gallery">
-		<img src="{{= the_post_thumbnail }}" >
-	</a>
-	<a href="#" class="delete">
-		<i class="fa fa-trash-o"></i>
-	</a>
+</script><script type="text/template" id="ae-portfolio-loop">   
+    <a href="{{= the_post_thumbnail_full }}" title="{{= post_title }}" class="image-gallery">
+        <img src="{{= the_post_thumbnail }}" >
+    </a>
+    <a href="#" class="delete">
+        <i class="fa fa-trash-o"></i>
+    </a>
 </script><script type="text/template" id="ae-bid-history-loop">
     <div class="name-history">
         <a href="{{=author_url}}"><span class="avatar-bid-item">{{= project_author_avatar }} </span>  </a>
@@ -947,7 +947,7 @@ ul.wpb_tabs_nav.profile > li > a:hover {
         <# } #>
         <li class="post-control"> 
             {{= status_text }} <span> &#9830; </span>
-            	<# if(post_status == 'pending'){ #>
+                <# if(post_status == 'pending'){ #>
         <a data-action="edit" data-target="#" class="action edit" href="#edit_place"><i class="fa fa-pencil"></i></a>
         <a title="{{= post_views }} views" class="post-views" href="#"><i class="fa fa-eye"></i></a>
     <# } #>
@@ -959,7 +959,7 @@ ul.wpb_tabs_nav.profile > li > a:hover {
     <# } #>
     <# if(post_status == 'draft'){ #>
         <a title="Edit" data-target="#" class="" 
-        	href="http://richpersian.com/demo/submit-project/?id={{= ID }}">
+            href="http://richpersian.com/demo/submit-project/?id={{= ID }}">
             <i class="fa fa-pencil"></i>
         </a>
         <a data-action="delete" class="action archive" href="#">
@@ -968,7 +968,7 @@ ul.wpb_tabs_nav.profile > li > a:hover {
     <# } #>
     <# if(post_status == 'archive'){ #>
         <a title="Renew" data-target="#" class="" 
-        	href="http://richpersian.com/demo/submit-project/?id={{= ID }}">
+            href="http://richpersian.com/demo/submit-project/?id={{= ID }}">
             <i class="fa fa-refresh"></i>
         </a>
         <a data-action="delete" class="action archive" href="#">
@@ -986,241 +986,241 @@ ul.wpb_tabs_nav.profile > li > a:hover {
 </script>
 <script type="text/template" id="skill_item">
 
-	<input type="hidden" name="skills[]" value="{{= name }}" class="skill-input" />
-	<span class="text-ellipsis" >{{= name }}</span><a href="javascript:void(0);" class="delete"><i class="fa fa-times"></i></a>
-	
+    <input type="hidden" name="skills[]" value="{{= name }}" class="skill-input" />
+    <span class="text-ellipsis" >{{= name }}</span><a href="javascript:void(0);" class="delete"><i class="fa fa-times"></i></a>
+    
 </script><div class="modal fade" id="modal_forgot">
-	<div class="modal-dialog">
-		<div class="modal-content">
-			<div class="modal-header">
-				<button type="button" class="close" data-dismiss="modal">
-					<i class="fa fa-times"></i>
-				</button>
-				<h4 class="modal-title">Forgot Password?</h4>
-			</div>
-			<div class="modal-body">
-				<form role="form" id="forgot_form" class="auth-form forgot_form">
-					<div class="form-group">
-						<label for="forgot_user_email">Enter your email here</label>
-						<input type="text" class="form-control" id="user_email" name="user_email" />
-					</div>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <i class="fa fa-times"></i>
+                </button>
+                <h4 class="modal-title">Forgot Password?</h4>
+            </div>
+            <div class="modal-body">
+                <form role="form" id="forgot_form" class="auth-form forgot_form">
+                    <div class="form-group">
+                        <label for="forgot_user_email">Enter your email here</label>
+                        <input type="text" class="form-control" id="user_email" name="user_email" />
+                    </div>
                     <div class="clearfix"></div>
-					<button type="submit" class="btn-submit btn-sumary btn-sub-create">
-						Send					</button>
-				</form>	
-			</div>
-		</div><!-- /.modal-content -->
-	</div><!-- /.modal-dialog -->
+                    <button type="submit" class="btn-submit btn-sumary btn-sub-create">
+                        Send                    </button>
+                </form> 
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
 </div><!-- /.modal --><style type="text/css">
-	#pin_modal .modal-header .close  {
-		width: 30px;
-		height: 30px;
-	}
+    #pin_modal .modal-header .close  {
+        width: 30px;
+        height: 30px;
+    }
 </style>
 <div class="modal fade modal-pin" id="pin_modal" aria-hidden="true">
-	<div class="modal-dialog">
-		<div class="modal-content">
-					<div class="modal-header">
-				<button  style="z-index:1000;" data-dismiss="modal" class="close">×</button>
-				<div class="info slogan">
-	      			<h4 class="modal-title"><span class="plan_name">{$plan_name}</span></h4>
-	      			<span class="plan_desc">{$plan_description}</span>
-	    		</div>
-			</div>
-					<div class="modal-body">
+    <div class="modal-dialog">
+        <div class="modal-content">
+                    <div class="modal-header">
+                <button  style="z-index:1000;" data-dismiss="modal" class="close">×</button>
+                <div class="info slogan">
+                    <h4 class="modal-title"><span class="plan_name">{$plan_name}</span></h4>
+                    <span class="plan_desc">{$plan_description}</span>
+                </div>
+            </div>
+                    <div class="modal-body">
 
-				<form class="modal-form" id="pin_form" novalidate="novalidate" autocomplete="on" data-ajax="false">
-					<div class="content clearfix">
-						<div class="form-group alert_area" style="display:none">
-							<div class="alert alert-danger" role="alert">
-								<ul class="response_error">
-								</ul>
-							</div>
-						</div>
-						<div class="form-group">
-							<div class="controls">
-								<div class="form-item-left">
-									<label>
-										Card number:									</label>
-									<div class="controls fld-wrap" id="">
-										<input tabindex="20" id="cc-number" type="text" value="5520000000000000" size="20"  data-pin="number" class="bg-default-input not_empty" placeholder="&#8226;&#8226;&#8226;&#8226; &nbsp; &nbsp; &nbsp; &#8226;&#8226;&#8226;&#8226; &nbsp; &nbsp; &#8226;&#8226;&#8226;&#8226; &nbsp; &nbsp; &nbsp; &#8226;&#8226;&#8226;&#8226;" />
-									</div>
-								</div>
-								<div class="form-item-right">
-								  	<label>
-										Expiry date:								  	</label>
-								 	<div class="pin_date" id="">
-									 	<input tabindex="22" type="text" value="5" size="4" data-pin="exp-year" placeholder="MM"  class="bg-default-input not_empty" id="cc-expiry-month"/>
-								      	<span> / </span>
-								      	<input tabindex="21" type="text" value="16" size="2" data-pin="exp-month" placeholder="YY"  class="bg-default-input not_empty" id="cc-expiry-year"/>
-								 	</div>
-								</div>
-								<div class="clearfix"></div>
-							</div>
-						</div>
+                <form class="modal-form" id="pin_form" novalidate="novalidate" autocomplete="on" data-ajax="false">
+                    <div class="content clearfix">
+                        <div class="form-group alert_area" style="display:none">
+                            <div class="alert alert-danger" role="alert">
+                                <ul class="response_error">
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="controls">
+                                <div class="form-item-left">
+                                    <label>
+                                        Card number:                                    </label>
+                                    <div class="controls fld-wrap" id="">
+                                        <input tabindex="20" id="cc-number" type="text" value="5520000000000000" size="20"  data-pin="number" class="bg-default-input not_empty" placeholder="&#8226;&#8226;&#8226;&#8226; &nbsp; &nbsp; &nbsp; &#8226;&#8226;&#8226;&#8226; &nbsp; &nbsp; &#8226;&#8226;&#8226;&#8226; &nbsp; &nbsp; &nbsp; &#8226;&#8226;&#8226;&#8226;" />
+                                    </div>
+                                </div>
+                                <div class="form-item-right">
+                                    <label>
+                                        Expiry date:                                    </label>
+                                    <div class="pin_date" id="">
+                                        <input tabindex="22" type="text" value="5" size="4" data-pin="exp-year" placeholder="MM"  class="bg-default-input not_empty" id="cc-expiry-month"/>
+                                        <span> / </span>
+                                        <input tabindex="21" type="text" value="16" size="2" data-pin="exp-month" placeholder="YY"  class="bg-default-input not_empty" id="cc-expiry-year"/>
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
 
 
-						<div class="form-group">
+                        <div class="form-group">
 
-							<div class="form-item-left">
-							  	<label>
-									Name on card:							  	</label>
-							  	<div class="controls name_card " id="">
-									<input tabindex="23" name="" id="cc-name"  value="Roland C Robot" data-pin="name" class="bg-default-input not_empty" type="text" />
-							 	</div>
-							</div>
+                            <div class="form-item-left">
+                                <label>
+                                    Name on card:                               </label>
+                                <div class="controls name_card " id="">
+                                    <input tabindex="23" name="" id="cc-name"  value="Roland C Robot" data-pin="name" class="bg-default-input not_empty" type="text" />
+                                </div>
+                            </div>
 
-							<div class="form-item-right">
-								<label>
-									Card code:							  	</label>
-							 	<div class="controls card-code" id="">
-									<input tabindex="24" type="text" size="3" value="123" data-pin="cvc" class="bg-default-input not_empty input-cvc " placeholder="CVC" id="cc-cvc" />
-							  	</div>
-							</div>
-						</div>
-						<div class="form-group">
+                            <div class="form-item-right">
+                                <label>
+                                    Card code:                              </label>
+                                <div class="controls card-code" id="">
+                                    <input tabindex="24" type="text" size="3" value="123" data-pin="cvc" class="bg-default-input not_empty input-cvc " placeholder="CVC" id="cc-cvc" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
 
-							<div class="form-item-left">
-							  	<label>
-									Address line:							  	</label>
-							  	<div class="controls add_line " id="">
-									<input tabindex="23" name="" id="address-line1" value="gfda"  data-pin="address" class="bg-default-input not_empty" type="text" />
-							 	</div>
-							</div>
+                            <div class="form-item-left">
+                                <label>
+                                    Address line:                               </label>
+                                <div class="controls add_line " id="">
+                                    <input tabindex="23" name="" id="address-line1" value="gfda"  data-pin="address" class="bg-default-input not_empty" type="text" />
+                                </div>
+                            </div>
 
-						</div>
-						<div class="form-group">
+                        </div>
+                        <div class="form-group">
 
-							<div class="form-item-left">
-							  	<label>
-									City:							  	</label>
-							  	<div class="controls name_card " id="">
-									<input tabindex="23" name="" id="address-city" value="bd" data-pin="city" class="bg-default-input not_empty" type="text" />
-							 	</div>
-							</div>
+                            <div class="form-item-left">
+                                <label>
+                                    City:                               </label>
+                                <div class="controls name_card " id="">
+                                    <input tabindex="23" name="" id="address-city" value="bd" data-pin="city" class="bg-default-input not_empty" type="text" />
+                                </div>
+                            </div>
 
-							<div class="form-item-right">
-								<label>
-									State:							  	</label>
-							 	<div class="controls card-code" id="">
-									<input tabindex="24" type="text" size="3" value="db" data-pin="state" class="bg-default-input not_empty input-cvc " placeholder="CVC" id="address-state" />
-							  	</div>
-							</div>
+                            <div class="form-item-right">
+                                <label>
+                                    State:                              </label>
+                                <div class="controls card-code" id="">
+                                    <input tabindex="24" type="text" size="3" value="db" data-pin="state" class="bg-default-input not_empty input-cvc " placeholder="CVC" id="address-state" />
+                                </div>
+                            </div>
 
-						</div>
-						<div class="form-group">
+                        </div>
+                        <div class="form-group">
 
-							<div class="form-item-left">
-							  	<label>
-									Country:							  	</label>
-							  	<div class="controls name_card " id="">
-									<select class="form-control-pin" id="address-country" name="address-country">
-										<script type="text/javascript" >
+                            <div class="form-item-left">
+                                <label>
+                                    Country:                                </label>
+                                <div class="controls name_card " id="">
+                                    <select class="form-control-pin" id="address-country" name="address-country">
+                                        <script type="text/javascript" >
                                             document.write(getCountryOptionsListHtml("GB"));
                                         </script>
                                     </select>
-							 	</div>
-							</div>
+                                </div>
+                            </div>
 
 
-						</div>
-						<div class="form-group">
-							<div class="form-item-left">
-								<label>
-									Postcode:							  	</label>
-							 	<div class="controls card-code" id="">
-									<input tabindex="24" type="text" size="3" value="2600" data-pin="postcode" class="bg-default-input not_empty input-cvc " placeholder="CVC" id="address-postcode" />
-							  	</div>
-							</div>
-						</div>
+                        </div>
+                        <div class="form-group">
+                            <div class="form-item-left">
+                                <label>
+                                    Postcode:                               </label>
+                                <div class="controls card-code" id="">
+                                    <input tabindex="24" type="text" size="3" value="2600" data-pin="postcode" class="bg-default-input not_empty input-cvc " placeholder="CVC" id="address-postcode" />
+                                </div>
+                            </div>
+                        </div>
 
 
 
 
-					</div>
-					<div class="footer form-group font-quicksand">
-						<div class="button">
-							<button class="btn  btn-primary" type="submit"  id="submit_pin"> PAY NOW </button>
-						</div>
-					</div>
-				</form>
-			</div>
-		</div>
-	</div>
-	<div class="modal-close"></div>
+                    </div>
+                    <div class="footer form-group font-quicksand">
+                        <div class="button">
+                            <button class="btn  btn-primary" type="submit"  id="submit_pin"> PAY NOW </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="modal-close"></div>
 </div><style type="text/css">
-	#stripe_modal .modal-header .close  {
-		width: 30px;
-		height: 30px;
-	}
+    #stripe_modal .modal-header .close  {
+        width: 30px;
+        height: 30px;
+    }
 </style>
 <div class="modal fade modal-stripe" id="stripe_modal" aria-hidden="true">
-	<div class="modal-dialog">
-		<div class="modal-content">
-					<div class="modal-header">
-				<button  style="z-index:1000;" data-dismiss="modal" class="close">×</button>				
-				<div class="info slogan">
-	      			<h4 class="modal-title"><span class="plan_name">{$plan_name}</span></h4>
-	      			<span class="plan_desc">{$plan_description}</span>      
-	    		</div>
-			</div>
-					<div class="modal-body">
-				
-				<form class="modal-form" id="stripe_form" novalidate="novalidate" autocomplete="on" data-ajax="false">
-					<div class="content clearfix">		
-						<div class="form-group">
-							<div class="controls">
-								<div class="form-item-left">
-									<label>
-										Card number:									</label>
-									<div class="controls fld-wrap" id="">
-										<input tabindex="20" id="stripe_number" type="text" size="20"  data-stripe="number" class="bg-default-input not_empty" placeholder="&#8226;&#8226;&#8226;&#8226; &nbsp; &nbsp; &nbsp; &#8226;&#8226;&#8226;&#8226; &nbsp; &nbsp; &#8226;&#8226;&#8226;&#8226; &nbsp; &nbsp; &nbsp; &#8226;&#8226;&#8226;&#8226;" />
-									</div>
-								</div>
-								<div class="form-item-right">
-								  	<label>
-										Expiry date:								  	</label>
-								 	<div class="stripe_date" id="">
-									 	<input tabindex="22" type="text" size="4" data-stripe="exp-year" placeholder="YY"  class="bg-default-input not_empty" id="exp_year"/>
-								      	<span> / </span>								      	
-								      	<input tabindex="21" type="text" size="2" data-stripe="exp-month" placeholder="MM"  class="bg-default-input not_empty" id="exp_month"/>
-								 	</div>
-								</div>
-								<div class="clearfix"></div>
-							</div>
-						</div> 
-						
+    <div class="modal-dialog">
+        <div class="modal-content">
+                    <div class="modal-header">
+                <button  style="z-index:1000;" data-dismiss="modal" class="close">×</button>                
+                <div class="info slogan">
+                    <h4 class="modal-title"><span class="plan_name">{$plan_name}</span></h4>
+                    <span class="plan_desc">{$plan_description}</span>      
+                </div>
+            </div>
+                    <div class="modal-body">
+                
+                <form class="modal-form" id="stripe_form" novalidate="novalidate" autocomplete="on" data-ajax="false">
+                    <div class="content clearfix">      
+                        <div class="form-group">
+                            <div class="controls">
+                                <div class="form-item-left">
+                                    <label>
+                                        Card number:                                    </label>
+                                    <div class="controls fld-wrap" id="">
+                                        <input tabindex="20" id="stripe_number" type="text" size="20"  data-stripe="number" class="bg-default-input not_empty" placeholder="&#8226;&#8226;&#8226;&#8226; &nbsp; &nbsp; &nbsp; &#8226;&#8226;&#8226;&#8226; &nbsp; &nbsp; &#8226;&#8226;&#8226;&#8226; &nbsp; &nbsp; &nbsp; &#8226;&#8226;&#8226;&#8226;" />
+                                    </div>
+                                </div>
+                                <div class="form-item-right">
+                                    <label>
+                                        Expiry date:                                    </label>
+                                    <div class="stripe_date" id="">
+                                        <input tabindex="22" type="text" size="4" data-stripe="exp-year" placeholder="YY"  class="bg-default-input not_empty" id="exp_year"/>
+                                        <span> / </span>                                        
+                                        <input tabindex="21" type="text" size="2" data-stripe="exp-month" placeholder="MM"  class="bg-default-input not_empty" id="exp_month"/>
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div> 
+                        
 
-						<div class="form-group">
+                        <div class="form-group">
 
-							<div class="form-item-left">
-							  	<label>
-									Name on card:							  	</label>
-							  	<div class="controls name_card " id="">
-									<input tabindex="23" name="" id="name_card"  data-stripe="name" class="bg-default-input not_empty" type="text" />
-							 	</div>
-							</div>
+                            <div class="form-item-left">
+                                <label>
+                                    Name on card:                               </label>
+                                <div class="controls name_card " id="">
+                                    <input tabindex="23" name="" id="name_card"  data-stripe="name" class="bg-default-input not_empty" type="text" />
+                                </div>
+                            </div>
 
-							<div class="form-item-right">
-								<label>
-									Card code:							  	</label>
-							 	<div class="controls card-code" id="">
-									<input tabindex="24" type="text" size="3"  data-stripe="cvc" class="bg-default-input not_empty input-cvc " placeholder="CVC" id="cvc" />
-							  	</div>
-							</div>	
-						</div>
-						
-					</div>
-					<div class="footer form-group font-quicksand">
-						<div class="button">  
-							<button class="btn  btn-primary" type="submit"  id="submit_stripe"> PAY THROUGH STRIPE </button>
-						</div>
-					</div>
-				</form>
-			</div>
-		</div>
-	</div>
-	<div class="modal-close"></div>
+                            <div class="form-item-right">
+                                <label>
+                                    Card code:                              </label>
+                                <div class="controls card-code" id="">
+                                    <input tabindex="24" type="text" size="3"  data-stripe="cvc" class="bg-default-input not_empty input-cvc " placeholder="CVC" id="cvc" />
+                                </div>
+                            </div>  
+                        </div>
+                        
+                    </div>
+                    <div class="footer form-group font-quicksand">
+                        <div class="button">  
+                            <button class="btn  btn-primary" type="submit"  id="submit_stripe"> PAY THROUGH STRIPE </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="modal-close"></div>
 </div>        <script type="text/template" id="ae-notify-loop">
         {{= content }}
         </script>
@@ -1332,8 +1332,8 @@ ul.wpb_tabs_nav.profile > li > a:hover {
 
     <div class="information-detail">
         <p>
-	        <i class="fa {{= style.icon}} {{= style.color}}"></i>{{= post_title }} 
-	        <span class="{{= style.color}}">{{= amount_text }}</span> {{= info_changelog}}
+            <i class="fa {{= style.icon}} {{= style.color}}"></i>{{= post_title }} 
+            <span class="{{= style.color}}">{{= amount_text }}</span> {{= info_changelog}}
         </p>
         <p>Balance: <span class="price">{{= user_balance }}</span></p>
     </div>
@@ -1343,47 +1343,47 @@ ul.wpb_tabs_nav.profile > li > a:hover {
     </div>
 
 </script><style type="text/css">
-	#stripe_modal .modal-header .close  {
-		width: 30px;
-		height: 30px;
-	}
+    #stripe_modal .modal-header .close  {
+        width: 30px;
+        height: 30px;
+    }
 </style>
 <div class="modal fade modal-fre-credit" id="fre_credit_modal" aria-hidden="true">
-	<div class="modal-dialog">
-		<div class="modal-content">
-					<div class="modal-header">
-				<button  style="z-index:1000;" data-dismiss="modal" class="close">×</button>
-				<div class="info slogan">
-	      			<h4 class="modal-title"><span class="plan_name">{$plan_name}</span></h4>
-	      			<span class="plan_desc">{$plan_description}</span>
-	    		</div>
-			</div>
-					<div class="modal-body">
+    <div class="modal-dialog">
+        <div class="modal-content">
+                    <div class="modal-header">
+                <button  style="z-index:1000;" data-dismiss="modal" class="close">×</button>
+                <div class="info slogan">
+                    <h4 class="modal-title"><span class="plan_name">{$plan_name}</span></h4>
+                    <span class="plan_desc">{$plan_description}</span>
+                </div>
+            </div>
+                    <div class="modal-body">
 
-				<form class="modal-form" id="submit_fre_credit_form" novalidate="novalidate" autocomplete="on" data-ajax="false">
-					<div class="content clearfix">
-						<div class="form-group">
-							<div class="controls">
-								<div class="form-item-left">
-									<label>
-										Your secure code:									</label>
-									<div class="controls fld-wrap" id="">
-										<input tabindex="20" id="fre_credit_secure_code" type="password" size="20" name="fre_credit_secure_code"  class="bg-default-input not_empty" placeholder="" required />
-									</div>
-								</div>
-								<div class="clearfix"></div>
-							</div>
-						</div>
-						<div class="footer form-group font-quicksand">
-						<div class="button">
-							<button class="btn  btn-primary" type="submit"  id="submit_fre_credit"> PAY TO YOUR BALANCE </button>
-						</div>
-					</div>
-				</form>
-			</div>
-		</div>
-	</div>
-	<div class="modal-close"></div>
+                <form class="modal-form" id="submit_fre_credit_form" novalidate="novalidate" autocomplete="on" data-ajax="false">
+                    <div class="content clearfix">
+                        <div class="form-group">
+                            <div class="controls">
+                                <div class="form-item-left">
+                                    <label>
+                                        Your secure code:                                   </label>
+                                    <div class="controls fld-wrap" id="">
+                                        <input tabindex="20" id="fre_credit_secure_code" type="password" size="20" name="fre_credit_secure_code"  class="bg-default-input not_empty" placeholder="" required />
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                        <div class="footer form-group font-quicksand">
+                        <div class="button">
+                            <button class="btn  btn-primary" type="submit"  id="submit_fre_credit"> PAY TO YOUR BALANCE </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="modal-close"></div>
 </div>
 </div>        <!-- MODAL Send Message -->
         <div class="modal fade private_message_modal" id="modal_msg">
@@ -1573,12 +1573,12 @@ var facebook_auth = {"appID":"1234234","auth_url":"http:\/\/richpersian.com\/dem
 <script type='text/javascript' src='http://richpersian.com/demo/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.11.2.1'></script>
 <script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
 <script type='text/javascript' src='http://richpersian.com/demo/wp-content/plugins/js_composer/assets/lib/bower/jquery-ui-tabs-rotate/jquery-ui-tabs-rotate.min.js?ver=4.11.2.1'></script>
-		<script type="text/template" id="milestone_template">
-		    <span class="arrow-milestone-item"><i class="fa fa-arrows-v"></i></span>
-				<input type="text" data-index="{{= position_order }}" class="txt-milestone-item" value="{{= post_title }}">
-			<a class="btn-del-milestone-item" href=""><i class="fa fa-remove"></i></a>
-		</script>
-		        <script type="text/javascript" id="frontend_scripts">
+        <script type="text/template" id="milestone_template">
+            <span class="arrow-milestone-item"><i class="fa fa-arrows-v"></i></span>
+                <input type="text" data-index="{{= position_order }}" class="txt-milestone-item" value="{{= post_title }}">
+            <a class="btn-del-milestone-item" href=""><i class="fa fa-remove"></i></a>
+        </script>
+                <script type="text/javascript" id="frontend_scripts">
 
         (function ($ , Views, Models, AE) {
             $(document).ready(function(){
@@ -1871,7 +1871,7 @@ var facebook_auth = {"appID":"1234234","auth_url":"http:\/\/richpersian.com\/dem
                     </div>
                   </div>
                   <div class="body_sidebar_three">
-                    <h3>Recommended</h3>
+                    <h3>RECENTLY VIEWED</h3>
                     <div class="recently_view_item">
                       <img src="assets/images/recently_view_1.jpg" alt="">
                       <p>write Original Web Content</p>
@@ -1894,27 +1894,32 @@ var facebook_auth = {"appID":"1234234","auth_url":"http:\/\/richpersian.com\/dem
                     </div>
                     <div class="recently_view_item">
                       <img src="assets/images/recently_view_5.jpg" alt="">
-                      <p>Lorem ispum dolor sit amet</p>
-                      <div class="clr"></div>
-                    </div>
-                    <div class="recently_view_item">
-                      <img src="assets/images/recently_view_6.jpg" alt="">
                       <p>write website content for you</p>
                       <div class="clr"></div>
                     </div>
                     <div class="recently_view_item">
-                      <img src="assets/images/recently_view_7.jpg" alt="">
+                      <img src="assets/images/recently_view_1.jpg" alt="">
                       <p>write Original Web Content</p>
                       <div class="clr"></div>
                     </div>
                     <div class="recently_view_item">
-                      <img src="assets/images/recently_view_8.jpg" alt="">
+                      <img src="assets/images/recently_view_2.jpg" alt="">
                       <p>do perfect content writing for you</p>
                       <div class="clr"></div>
                     </div>
                     <div class="recently_view_item">
-                      <img src="assets/images/recently_view_8.jpg" alt="">
-                      <p>do perfect content writing for you</p>
+                      <img src="assets/images/recently_view_3.jpg" alt="">
+                      <p>write research, creative and engaging SEO</p>
+                      <div class="clr"></div>
+                    </div>
+                    <div class="recently_view_item">
+                      <img src="assets/images/recently_view_4.jpg" alt="">
+                      <p>offer best artice and well researched cotent</p>
+                      <div class="clr"></div>
+                    </div>
+                    <div class="recently_view_item">
+                      <img src="assets/images/recently_view_5.jpg" alt="">
+                      <p>write website content for you</p>
                       <div class="clr"></div>
                     </div>
                   </div>
@@ -1961,8 +1966,7 @@ var facebook_auth = {"appID":"1234234","auth_url":"http:\/\/richpersian.com\/dem
                   <div class="col-sm-3 product_item">
                     <div class="product_item_content">
                       <img src="assets/images/product_item_1.jpg" alt="">
-                      <p>I will write Complete</p>
-                      <p>WEBSITE content</p>
+                      <p>I will write Complete WEBSITE content</p>
                       <div>
                         <i class="fa fa-bars" aria-hidden="true"></i>
                         <i class="fa fa-heart" aria-hidden="true"></i>
@@ -1973,20 +1977,7 @@ var facebook_auth = {"appID":"1234234","auth_url":"http:\/\/richpersian.com\/dem
                   <div class="col-sm-3 product_item">
                     <div class="product_item_content">
                       <img src="assets/images/product_item_2.jpg" alt="">
-                      <p>I will write Complete</p>
-                      <p>WEBSITE content</p>
-                      <div>
-                        <i class="fa fa-bars" aria-hidden="true"></i>
-                        <i class="fa fa-heart" aria-hidden="true"></i>
-                        <span>Make an Offer</span>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-sm-3 product_item">
-                    <div class="product_item_content">
-                      <img src="assets/images/product_item_1.jpg" alt="">
-                      <p>I will write Complete</p>
-                      <p>WEBSITE content</p>
+                      <p>I will write Unique WEBSITE content</p>
                       <div>
                         <i class="fa fa-bars" aria-hidden="true"></i>
                         <i class="fa fa-heart" aria-hidden="true"></i>
@@ -1997,20 +1988,7 @@ var facebook_auth = {"appID":"1234234","auth_url":"http:\/\/richpersian.com\/dem
                   <div class="col-sm-3 product_item">
                     <div class="product_item_content">
                       <img src="assets/images/product_item_3.jpg" alt="">
-                      <p>I will write Complete</p>
-                      <p>WEBSITE content</p>
-                      <div>
-                        <i class="fa fa-bars" aria-hidden="true"></i>
-                        <i class="fa fa-heart" aria-hidden="true"></i>
-                        <span>Make an Offer</span>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-sm-3 product_item">
-                    <div class="product_item_content">
-                      <img src="assets/images/product_item_1.jpg" alt="">
-                      <p>I will write Complete</p>
-                      <p>WEBSITE content</p>
+                      <p>I will write Powerful WEBSITE content</p>
                       <div>
                         <i class="fa fa-bars" aria-hidden="true"></i>
                         <i class="fa fa-heart" aria-hidden="true"></i>
@@ -2021,20 +1999,7 @@ var facebook_auth = {"appID":"1234234","auth_url":"http:\/\/richpersian.com\/dem
                   <div class="col-sm-3 product_item">
                     <div class="product_item_content">
                       <img src="assets/images/product_item_4.jpg" alt="">
-                      <p>I will write Complete</p>
-                      <p>WEBSITE content</p>
-                      <div>
-                        <i class="fa fa-bars" aria-hidden="true"></i>
-                        <i class="fa fa-heart" aria-hidden="true"></i>
-                        <span>Make an Offer</span>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-sm-3 product_item">
-                    <div class="product_item_content">
-                      <img src="assets/images/product_item_5.jpg" alt="">
-                      <p>I will write Complete</p>
-                      <p>WEBSITE content</p>
+                      <p>I will write Original and effective WEBSITE content</p>
                       <div>
                         <i class="fa fa-bars" aria-hidden="true"></i>
                         <i class="fa fa-heart" aria-hidden="true"></i>
@@ -2045,8 +2010,7 @@ var facebook_auth = {"appID":"1234234","auth_url":"http:\/\/richpersian.com\/dem
                   <div class="col-sm-3 product_item">
                     <div class="product_item_content">
                       <img src="assets/images/product_item_1.jpg" alt="">
-                      <p>I will write Complete</p>
-                      <p>WEBSITE content</p>
+                      <p>I will write Complete WEBSITE content</p>
                       <div>
                         <i class="fa fa-bars" aria-hidden="true"></i>
                         <i class="fa fa-heart" aria-hidden="true"></i>
@@ -2056,9 +2020,30 @@ var facebook_auth = {"appID":"1234234","auth_url":"http:\/\/richpersian.com\/dem
                   </div>
                   <div class="col-sm-3 product_item">
                     <div class="product_item_content">
-                      <img src="assets/images/product_item_6.jpg" alt="">
-                      <p>I will write Complete</p>
-                      <p>WEBSITE content</p>
+                      <img src="assets/images/product_item_2.jpg" alt="">
+                      <p>I will write Unique WEBSITE content</p>
+                      <div>
+                        <i class="fa fa-bars" aria-hidden="true"></i>
+                        <i class="fa fa-heart" aria-hidden="true"></i>
+                        <span>Make an Offer</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-sm-3 product_item">
+                    <div class="product_item_content">
+                      <img src="assets/images/product_item_3.jpg" alt="">
+                      <p>I will write Powerful WEBSITE content</p>
+                      <div>
+                        <i class="fa fa-bars" aria-hidden="true"></i>
+                        <i class="fa fa-heart" aria-hidden="true"></i>
+                        <span>Make an Offer</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-sm-3 product_item">
+                    <div class="product_item_content">
+                      <img src="assets/images/product_item_4.jpg" alt="">
+                      <p>I will write Original and effective WEBSITE content</p>
                       <div>
                         <i class="fa fa-bars" aria-hidden="true"></i>
                         <i class="fa fa-heart" aria-hidden="true"></i>
@@ -2069,8 +2054,7 @@ var facebook_auth = {"appID":"1234234","auth_url":"http:\/\/richpersian.com\/dem
                   <div class="col-sm-3 product_item">
                     <div class="product_item_content">
                       <img src="assets/images/product_item_1.jpg" alt="">
-                      <p>I will write Complete</p>
-                      <p>WEBSITE content</p>
+                      <p>I will write Complete WEBSITE content</p>
                       <div>
                         <i class="fa fa-bars" aria-hidden="true"></i>
                         <i class="fa fa-heart" aria-hidden="true"></i>
@@ -2080,9 +2064,8 @@ var facebook_auth = {"appID":"1234234","auth_url":"http:\/\/richpersian.com\/dem
                   </div>
                   <div class="col-sm-3 product_item">
                     <div class="product_item_content">
-                      <img src="assets/images/product_item_7.jpg" alt="">
-                      <p>I will write Complete</p>
-                      <p>WEBSITE content</p>
+                      <img src="assets/images/product_item_2.jpg" alt="">
+                      <p>I will write Unique WEBSITE content</p>
                       <div>
                         <i class="fa fa-bars" aria-hidden="true"></i>
                         <i class="fa fa-heart" aria-hidden="true"></i>
@@ -2092,9 +2075,19 @@ var facebook_auth = {"appID":"1234234","auth_url":"http:\/\/richpersian.com\/dem
                   </div>
                   <div class="col-sm-3 product_item">
                     <div class="product_item_content">
-                      <img src="assets/images/product_item_1.jpg" alt="">
-                      <p>I will write Complete</p>
-                      <p>WEBSITE content</p>
+                      <img src="assets/images/product_item_3.jpg" alt="">
+                      <p>I will write Powerful WEBSITE content</p>
+                      <div>
+                        <i class="fa fa-bars" aria-hidden="true"></i>
+                        <i class="fa fa-heart" aria-hidden="true"></i>
+                        <span>Make an Offer</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-sm-3 product_item">
+                    <div class="product_item_content">
+                      <img src="assets/images/product_item_4.jpg" alt="">
+                      <p>I will write Original and effective WEBSITE content</p>
                       <div>
                         <i class="fa fa-bars" aria-hidden="true"></i>
                         <i class="fa fa-heart" aria-hidden="true"></i>
@@ -2118,7 +2111,6 @@ var facebook_auth = {"appID":"1234234","auth_url":"http:\/\/richpersian.com\/dem
                 <p>0</p>
                 <p>Total Jobs Posted</p>
               </div>
-              <div class="no_function_bot">&nbsp;</div>
             </div>
           </div>
         </div>
@@ -2201,20 +2193,12 @@ var facebook_auth = {"appID":"1234234","auth_url":"http:\/\/richpersian.com\/dem
                 <i class="fa fa-facebook" aria-hidden="true"></i>
                 <i class="fa fa-twitter" aria-hidden="true"></i>
                 <i class="fa fa-google-plus" aria-hidden="true"></i>
-                <i class="fa fa-linkedin" aria-hidden="true"></i>
+                <i class="fa fa-youtube" aria-hidden="true"></i>
                 <i class="fa fa-rss" aria-hidden="true"></i>
+                <i class="fa fa-camera-retro" aria-hidden="true"></i>
               </div>
-            </div>
-          </div>
-        </div>
-        <div class="footer_sparkingjob">
-          <div class="container">
-            <div class="row">
-              <div class="col-sm-6 footer_sparking_left">
-                <div>Sparking Jobs</div>
-              </div>
-              <div class="col-sm-6 footer_sparking_right">
-                <div>Powered By Sparkingjobs</div>
+              <div class="col-sm-12 footer_logo">
+                <img src="assets/images/header_logo.png" alt="Sparking Jobs">
               </div>
             </div>
           </div>
