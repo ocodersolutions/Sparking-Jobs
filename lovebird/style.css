@@ -7926,3 +7926,11 @@ button.menu__label{
 	}
 }
 .comment-form textarea { margin-bottom: 1.5em;}
+.logo_before_after {
+	padding: 14px 0;
+    text-align: center;
+    margin: 13px 0;
+}
+.wrapper-before .logo_before_after {
+	margin-top: 14px;
+}

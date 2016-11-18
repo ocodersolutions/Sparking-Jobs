@@ -193,6 +193,9 @@ header.trans-color .top-header{
 	max-height: 300px;
 	max-width: 100%;
 }
+.logo.site_logo_white img {
+	opacity: 0;
+}
 .logo.site_logo_black {
 	display: none;
 }
@@ -2631,4 +2634,5 @@ h2.recharge{
 	margin: 0;
 	float: left;
 }
+
 
