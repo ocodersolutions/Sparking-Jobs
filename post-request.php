@@ -214,51 +214,59 @@
 							</div>
 							<div class="col-sm-4 post_request_sidebar">
 								<div class="post_request_sidebar_content">
-									<div class="pr_sidebar_one">
-										<span class="pr_filter">Filters</span>
-										<span class="pr_save_filter">Save Filters</span>
-										<div class="clr"></div>
-									</div>
-									<div class="pr_sidebar_two">
-										<div class="pr_range_slider">
-											<p class="pr_range_title">Amount</p>
-											<div id="slider_range_amount"></div>
-											<p class="pr_range_price">
-												<input type="text" id="pr_amount" readonly>
-											</p>
-										</div>	
-										<div class="pr_range_slider">
-											<p class="pr_range_title">Reviews</p>
-											<div id="slider_range_review"></div>
-											<p class="pr_range_price">
-												<input type="text" id="pr_review" readonly>
-											</p>
-										</div>	
-										<div class="pr_range_slider">
-											<p class="pr_range_title">Ratings</p>
-											<div id="slider_range_rating"></div>
-											<p class="pr_range_price">
-												<input type="text" id="pr_rating" readonly>
-											</p>
-										</div>	
-										<div class="pr_range_slider">
-											<p class="pr_range_title">Days to Complete</p>
-											<div id="slider_range_complete"></div>
-											<p class="pr_range_price">
-												<input type="text" id="pr_complete" readonly>
-											</p>
-										</div>	
-										<div class="pr_range_slider">
-											<p class="pr_range_title">Initial Milestone</p>
-											<div id="slider_range_milestone"></div>
-											<p class="pr_range_price">
-												<input type="text" id="pr_milestone" readonly>
-											</p>
-										</div>	
-										<div class="pr_after_range">
-											
-										</div>								
-									</div>
+									<form action="">
+										<div class="pr_sidebar_one">
+											<span class="pr_filter">Filters</span>
+											<button type="submit" class="pr_save_filter">Save Filters</button>
+											<div class="clr"></div>
+										</div>
+										<div class="pr_sidebar_two">
+											<div class="pr_range_slider">
+												<p class="pr_range_title">Amount</p>
+												<div id="slider_range_amount"></div>
+												<p class="pr_range_price">
+													<input type="text" id="pr_amount" readonly>
+												</p>
+											</div>	
+											<div class="pr_range_slider">
+												<p class="pr_range_title">Reviews</p>
+												<div id="slider_range_review"></div>
+												<p class="pr_range_price">
+													<input type="text" id="pr_review" readonly>
+												</p>
+											</div>	
+											<div class="pr_range_slider">
+												<p class="pr_range_title">Ratings</p>
+												<div id="slider_range_rating"></div>
+												<p class="pr_range_price">
+													<input type="text" id="pr_rating" readonly>
+												</p>
+											</div>	
+											<div class="pr_range_slider">
+												<p class="pr_range_title">Days to Complete</p>
+												<div id="slider_range_complete"></div>
+												<p class="pr_range_price">
+													<input type="text" id="pr_complete" readonly>
+												</p>
+											</div>	
+											<div class="pr_range_slider">
+												<p class="pr_range_title">Initial Milestone</p>
+												<div id="slider_range_milestone"></div>
+												<p class="pr_range_price">
+													<input type="text" id="pr_milestone" readonly>
+												</p>
+											</div>	
+											<div class="pr_after_range">
+												<p>
+													<input type="checkbox" id="test_cb" />
+													<label for="test_cb" class="label_checkbox">Has Portfolio</label>
+													<div class="clr"></div>
+												</p>
+												<p>Countries <i class="fa fa-plus-circle" aria-hidden="true"></i></p>
+												<p>Badges <i class="fa fa-plus-circle" aria-hidden="true"></i></p>
+											</div>								
+										</div>
+									</form>
 								</div>
 							</div>
 						</div>
