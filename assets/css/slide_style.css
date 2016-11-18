@@ -1,0 +1,15 @@
+/*
+Theme Name:     Freelanceengine Child
+Theme URI:      http://enginetheme.com/
+Description:    Child theme for the FreelanceEngine theme
+Author:         enginethemes
+Author URI:     http://enginetheme.com/about/
+Template:       freelanceengine
+Version:        1.0
+*/
+
+#search_container { 
+	background:url('images/world-spinning.gif');
+	height:100%;
+
+}

@@ -376,6 +376,98 @@ li {
         min-height: 290px;
     }
 }
+img.wp-smiley,
+img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+}
+.custom-field .chosen-container{
+    display: block;
+}
+.custom-field .chosen-container .chosen-single{
+    border-radius: 0;
+    padding-left: 12px;
+    height: 34px;
+    line-height: 34px;
+    background: transparent;
+    border: 1px solid #d7d8da;
+    box-shadow: none;
+}
+.custom-field .chosen-container-single .chosen-single div b {
+    background: url(../img/chosen-sprite.png) no-repeat 0 6px;
+}
+.custom-field input[type=checkbox],
+.custom-field input[type=radio]{
+    margin-right: 5px;
+}
+.custom-field.radio-field .fa-exclamation-triangle,
+.custom-field.checkbox-field .fa-exclamation-triangle{
+    top:30px;
+}
+.checkbox-field.error  .fa-exclamation-triangle,
+.radio-field.error  .fa-exclamation-triangle {
+    top : 5px;
+}
+.custom-field.radio-field .message,
+.custom-field.checkbox-field .message {
+    margin-top: -10px;
+}
+.form_modal_style label {
+    display: inline-block;
+}
+.form-group.custom-field  label.control-label {
+    display: block;
+}
+textarea.form-control {
+    padding-top : 10px;
+}
+
+.ae-field-title {
+    color: #2c3d4f;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0 0 15px;
+    display: block;
+}
+.custom-field-wrapper a {
+    color: #5d5f5e;
+}
+.custom-field-wrapper li {
+    padding: 5px 10px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    background-color: #f1f5f7;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.custom-field-wrapper ul {
+    padding: 0;
+    margin: 0;
+    list-style: none
+}
+.recentcomments a {
+    display:inline !important;
+    padding:0 !important;
+    margin:0 !important;
+}
+#stripe_modal .modal-header .close  {
+    width: 30px;
+    height: 30px;
+}
+
+
 /****************** end stype homepage *******************/
 
 /***************** style job posting page ***************/

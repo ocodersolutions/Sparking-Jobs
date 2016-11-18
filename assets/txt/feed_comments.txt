@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for Freelancer</title>
+	<atom:link href="http://richpersian.com/demo/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://richpersian.com/demo</link>
+	<description>Freelance Web Site</description>
+	<lastBuildDate>Thu, 28 Apr 2016 17:33:32 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.4</generator>
+	<item>
+		<title>Comment on Hello world! by Mr WordPress</title>
+		<link>http://richpersian.com/demo/2016/04/28/hello-world/#comment-1</link>
+		<dc:creator><![CDATA[Mr WordPress]]></dc:creator>
+		<pubDate>Thu, 28 Apr 2016 17:33:32 +0000</pubDate>
+		<guid isPermaLink="false">http://richpersian.com/demo/?p=1#comment-1</guid>
+		<description><![CDATA[Hi, this is a comment.
+To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></description>
+		<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Ecommerce website development by Mark</title>
+		<link>http://richpersian.com/demo/project/ecommerce-website-development/#comment-20</link>
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Mon, 17 Nov 2014 09:20:44 +0000</pubDate>
+		<guid isPermaLink="false">http://enginethemes.com/demo/c1/?post_type=project&#038;p=201#comment-20</guid>
+		<description><![CDATA[&lt;p&gt;Thank you for your choice , &lt;/p&gt;]]></description>
+		<content:encoded><![CDATA[<p>Thank you for your choice , </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Build a Website by George</title>
+		<link>http://richpersian.com/demo/project/build-a-website/#comment-19</link>
+		<dc:creator><![CDATA[George]]></dc:creator>
+		<pubDate>Fri, 14 Nov 2014 06:57:31 +0000</pubDate>
+		<guid isPermaLink="false">http://enginethemes.com/demo/c1/?post_type=project&#038;p=54#comment-19</guid>
+		<description><![CDATA[Hi,
+We are the Preferred Freelancer Badge Holder by the freelancer.com... Kindly check the link that I have shared in the bid proposal to get an idea about our quality of work. We can achieve the result that you are asking for .We can complete your project in time and within your expected budget. Hope we will discuss soon.
+Thanks &#038; Regards]]></description>
+		<content:encoded><![CDATA[<p>Hi,<br />
+We are the Preferred Freelancer Badge Holder by the freelancer.com&#8230; Kindly check the link that I have shared in the bid proposal to get an idea about our quality of work. We can achieve the result that you are asking for .We can complete your project in time and within your expected budget. Hope we will discuss soon.<br />
+Thanks &amp; Regards</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

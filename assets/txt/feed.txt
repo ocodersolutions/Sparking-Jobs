@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Freelancer</title>
+	<atom:link href="http://richpersian.com/demo/feed/" rel="self" type="application/rss+xml" />
+	<link>http://richpersian.com/demo</link>
+	<description>Freelance Web Site</description>
+	<lastBuildDate>Thu, 17 Nov 2016 01:21:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.4</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>http://richpersian.com/demo/2016/04/28/hello-world/</link>
+		<comments>http://richpersian.com/demo/2016/04/28/hello-world/#comments</comments>
+		<pubDate>Thu, 28 Apr 2016 17:33:32 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://richpersian.com/demo/?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://richpersian.com/demo/2016/04/28/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>EngineThemes’ 2nd birthday celebration</title>
+		<link>http://richpersian.com/demo/2014/11/24/enginethemes-2nd-birthday-celebration/</link>
+		<comments>http://richpersian.com/demo/2014/11/24/enginethemes-2nd-birthday-celebration/#respond</comments>
+		<pubDate>Mon, 24 Nov 2014 03:54:07 +0000</pubDate>
+		<dc:creator><![CDATA[Enginethemes]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://enginethemes.com/demo/c1/?p=477</guid>
+		<description><![CDATA[On November 27th, EngineThemes will have its 2nd birthday. How fast time flies! For the last two years, we’ve received a lot of love from our dear customers and those supportive words have been our treasure. It’s time for us to give something back. So, let us celebrate this joyful occasion with presents and sweet words. For this 2nd [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On November 27th, EngineThemes will have its 2nd birthday. How fast time flies!</p>
+<p>For the last two years, we’ve received a lot of love from our dear customers and those supportive words have been our treasure. It’s time for us to give something back. So, let us celebrate this joyful occasion with presents and sweet words.</p>
+<p>For this 2nd anniversary, you’ll have a chance to<strong> get all our products for FREE </strong>right on our birthday<strong> – November 27th, 2014.</strong></p>
+<p><a href="https://www.enginethemes.com/birthday/"><img class="alignnone size-medium wp-image-480" src="http://enginethemes.com/demo/freelanceengine/wp-content/uploads/2014/11/facebook1-300x157.png" alt="facebook1" width="300" height="157" /></a></p>
+<p>Simply follow these below steps to get your presents:</p>
+<p>Step 1: <a title="Get hundreds of free themes on EngineThemes' 2nd birthday giveaway event" href="https://www.enginethemes.com/birthday/" target="_blank"><strong>Share the event page via Facebook or Twitter.</strong></a> Remember to log into your account or register one to get a voucher for 15% discount later.</p>
+<p>Step 2: Come back on Nov. 27th 2014 at 10am GMT+0 or 4pm GMT+0 to get your FREE presents.</p>
+<p>The number of gifts will be decided based on the number of participants:</p>
+<p>• With <strong>1000</strong> total shares, there’ll be 5 theme licenses, 45 discount codes &amp; 5 installation packs.<br />
+• With <strong>2000</strong> shares: 10 theme licenses, 90 discount codes &amp; 5 installation packs<br />
+• With <strong>4000</strong> shares: 20 theme licenses, 180 discount codes &amp; 5 installation packs<br />
+• With <strong>6000</strong> shares: 30 theme licenses, 270 discount codes &amp; 10 installation packs<br />
+• With <strong>10000</strong> shares: 50 theme licenses, 450 discount codes &amp; 10 installation packs</p>
+<p><strong>The number of participants will be finalized at 11h59 pm GMT+0, on November 26th, 2014.</strong></p>
+<p>Please remember that, the time is near! Don’t wait too long, sometimes “later” becomes “never”.</p>
+<p>Wish you all the best on this sweet day.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://richpersian.com/demo/2014/11/24/enginethemes-2nd-birthday-celebration/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Announcement: Delay in support until November 24th, 2014</title>
+		<link>http://richpersian.com/demo/2014/11/24/announcement-delay-in-support-until-november-24th-2014/</link>
+		<comments>http://richpersian.com/demo/2014/11/24/announcement-delay-in-support-until-november-24th-2014/#respond</comments>
+		<pubDate>Mon, 24 Nov 2014 03:53:21 +0000</pubDate>
+		<dc:creator><![CDATA[Enginethemes]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://enginethemes.com/demo/c1/?p=475</guid>
+		<description><![CDATA[Dear our loved customers,    This notification is to inform you about the delay in our support service until November 24th, 2014.    In 03 days from November 21st to November 23rd, we’ll have a company trip which can be considered as a paid holidays for all employees in the whole company after a hard working year. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dear our loved customers,<br />
+<span class="whitespace">  </span><br />
+<span class="xml-text">This notification is to inform you about the delay in our support service until <strong>November 24th, 2014</strong>.</span><br />
+<span class="whitespace">  </span><br />
+<span class="xml-text">In 03 days from </span><span class="xml-text"><strong>November 21st</strong> </span><span class="xml-punctuation"><span class="xml-text">to </span><strong><span class="xml-text">November 23rd</span></strong><span class="xml-text"><strong>,</strong> we’ll have a company trip which can be considered as a paid holidays for all employees in the whole company after a hard working year. During this period, our support service will be slower than usual.</span></span></p>
+<p><span class="xml-text">We understand that the break would cause some inconvenience for you and we’ll try our best to answer all urgent cases as soon as we could. However, we will be able to respond to basic cases only. Advanced cases or those that need more technical works will be taken care of after we’back from the trip.</span></p>
+<p><span class="xml-text">We’ll resume our regular schedule on </span><strong><span class="xml-text">Monday, November 24th</span></strong><span class="xml-punctuation"><span class="xml-punctuation"> </span><span class="xml-text">and processed all other requests and questions.</span></span></p>
+<p><span class="xml-text">Thank you very much for your understanding and patience. Once again, we sincerely apologize for any inconvenience the delay may cause.</span></p>
+<p>We wish you a great weekend with your loved ones.</p>
+<p>P.S. Next week, we’re having a HUGE giveaway event for our 2nd birthday! Make sure you don’t miss it: <a title="Get hundreds of free themes on EngineThemes' birthday giveaway event" href="https://www.enginethemes.com/birthday/">https://www.enginethemes.com/birthday/</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://richpersian.com/demo/2014/11/24/announcement-delay-in-support-until-november-24th-2014/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Taking your business to a new level with ClassifiedEngine 1.8</title>
+		<link>http://richpersian.com/demo/2014/11/24/taking-your-business-to-a-new-level-with-classifiedengine-1-8/</link>
+		<comments>http://richpersian.com/demo/2014/11/24/taking-your-business-to-a-new-level-with-classifiedengine-1-8/#respond</comments>
+		<pubDate>Mon, 24 Nov 2014 03:51:35 +0000</pubDate>
+		<dc:creator><![CDATA[Enginethemes]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://enginethemes.com/demo/c1/?p=472</guid>
+		<description><![CDATA[WooCommerce We know that payment is one of important steps of your purchasing process. Normally, E-commerce websites will allow payments from credit cards and banks through payment gateways from all over the world. But still, some are limited and only available in some specific countries. So, it is very necessary to have a payment support [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>WooCommerce</h2>
+<p>We know that payment is one of important steps of your purchasing process. Normally, E-commerce websites will allow payments from credit cards and banks through payment gateways from all over the world. But still, some are limited and only available in some specific countries. So, it is very necessary to have a payment support for your global customers.</p>
+<p>WooCommerce Plugin is compatible with ClassifiedEngine (CE). You can utilize this plugin to activate multiple gateways at once thus, your customers can freely choose which one is appropriate for them.</p>
+<p>CE 1.8 WooCommerce supports 115 payment gateways, which lets customers use different gateways to process their business transactions. In WooCommerce Extensions library, you can easily download free gateways like: Amazon Payment, PayFast… and also purchase premium ones such as: PayPal, Stripe… The choice is yours.</p>
+<p><a href="http://enginethemes.com/demo/freelanceengine/wp-content/uploads/2014/11/2014-11-18_9-45-05.jpg"><img class="alignnone wp-image-473 size-full" src="http://enginethemes.com/demo/freelanceengine/wp-content/uploads/2014/11/2014-11-18_9-45-05.jpg" alt="2014-11-18_9-45-05" width="800" height="423" /></a></p>
+<p>Integrating ClassifiedEngine with WooCommerce ‘s payment gateways is just our first step of updating our product in hope of providing users and customers both usability and satisfaction. Please keep following our blog to see more update for ClassifiedEngine.</p>
+<h2>The Upcoming Update</h2>
+<p>For the next versions of ClassifiedEngine, we will introduce to you our next implementation: <strong>Coupon and Report in WooCommerce</strong><br />
+We hope that you can find these info useful and continue supporting us in the future.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://richpersian.com/demo/2014/11/24/taking-your-business-to-a-new-level-with-classifiedengine-1-8/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Regarding our support service on EngineThemes’ forums</title>
+		<link>http://richpersian.com/demo/2014/11/24/regarding-our-support-service-on-enginethemes-forums/</link>
+		<comments>http://richpersian.com/demo/2014/11/24/regarding-our-support-service-on-enginethemes-forums/#respond</comments>
+		<pubDate>Mon, 24 Nov 2014 03:13:56 +0000</pubDate>
+		<dc:creator><![CDATA[Enginethemes]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://enginethemes.com/demo/c1/?p=470</guid>
+		<description><![CDATA[Dear our valued customers, First and foremost, we’d like to express our appreciation regarding your support during the time. Over the past few days, maybe some of you have noticed the disputation in our forums. We know this is not a good situation and it may bring some problems for you guys. Please accept our [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dear our valued customers,</p>
+<p>First and foremost, we’d like to express our appreciation regarding your support during the time.<br />
+Over the past few days, maybe some of you have noticed the disputation in our forums. We know this is not a good situation and it may bring some problems for you guys. Please accept our sincere apology for the inconvenience you have experienced due to this incident.</p>
+<p>We admit that there are some issues with our products as well as our customer service. As a provider, it’s our responsibility to ensure our customer’s satisfaction, therefore, we’ve been trying our best to solve the issues as soon as we can. We’ve written down all the feedback and thoroughly reviewed them, then come with immediate actions.<br />
+Here are the main solutions for all the concerns, hope that you can have a better experience with our service.</p>
+<ul>
+<li>About the security bugs’ notifications: we’ve totally resolved those bugs and taken steps to check it all over again. You now can download the latest versions and update your sites.<br />
+Besides, we’ll surely test our updates more carefully before the releases.</li>
+<li>About the updates: from now on, with every new update, we’ll inform you guys the plan for its next versions so that you wouldn’t be confused with the products’ future anymore.</li>
+<li>About the suggestions for our forum support service: we understand that waiting for support is really frustrating, it may happen due to the increased number of customers recently. In order to reduce this inconvenience, we’ve agreed on an immediate solution for all our support staffs and we will try harder to serve you better.</li>
+</ul>
+<p>Moreover, we’re also creating a detailed plan to improve our support process. With the new plan, the support flow would be more convenient for customers to inform their issues.</p>
+<p>On the other hand, we hope that you can understand our difficulties. Sometimes, we just can’t control everything. Therefore, your supportive cooperation are really precious to us and we really hope that we can solve all the matter in a peaceful atmosphere.</p>
+<p>We always value our customers’ feedback, should you have any further questions, please feel free to contact us. We’re looking forward to serving you as our valued customers not only at the present but also in the future.</p>
+<p>Once again, thanks for your understanding and patience.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://richpersian.com/demo/2014/11/24/regarding-our-support-service-on-enginethemes-forums/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

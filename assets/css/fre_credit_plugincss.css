@@ -1,0 +1,245 @@
+/*---------------------------
+  2.CUSTOM CSS FOR ALL PAGES
+    2.10.3 STYLE CSS FOR CREDITS
+--------------------------------*/
+#credits .balance {
+    position: relative;
+    border-bottom: 1px solid #f5f7f9;
+    padding: 30px 30px 0px 30px;
+}
+#credits .balance .credit, #credits .balance .available, #credits .balance .frozen {
+    color: #737c85;
+    margin-right: 40px;
+}
+#credits .balance .credit {
+    font-size: 18px;
+    font-weight: 500;
+}
+#credits .balance .available, #credits .balance .frozen {
+    font-size: 14px;
+    font-weight: 300;
+}
+#credits .balance .frozen i {
+    color: #f18d22;
+}
+#credits .balance > div {
+    margin-bottom: 30px;
+}
+#credits .balance .buget {
+    font-size: 16px;
+}
+#credits .balance .balance-credit .credit {
+    margin-right: 30px;
+}
+#credits .balance .balance-credit .buget {
+    font-size: 18px;
+}
+#credits .balance .button-functions {
+    position: absolute;
+    right: 30px;
+    top: 15px;
+}
+#credits .balance .button-functions .btn-add button, #credits .balance .button-functions .btn-withdraw button {
+    border: none;
+}
+#credits .balance .button-functions .btn-add {
+    margin-right: 26px;
+    padding: 10px 28px;
+}
+#credits .balance .button-functions .btn-withdraw {
+    font-weight: 300;
+}
+#credits .balance .button-functions .btn-withdraw i {
+    margin-right: 20px;
+}
+#credits .changelog {
+    padding: 30px;
+}
+#credits .changelog .bar-title {
+    border-bottom: 1px solid #f5f7f9;
+    position: relative;
+}
+#credits .changelog .bar-title .title {
+    font-size: 18px;
+    padding-bottom: 10px;
+    color: #737c85;
+    font-weight: 500;
+}
+#credits .changelog .bar-title .function-filter {
+    position: absolute;
+    right: 0;
+    top: 5px;
+    font-size: 12px;
+    color: #666f78;
+    font-weight: 300;
+}
+#credits .changelog .bar-title .function-filter .value, #credits .changelog .bar-title .function-filter .date {
+    display: inline-block;
+}
+#credits .changelog .bar-title .function-filter .value {
+    margin-right: 20px;
+}
+#credits .changelog .bar-title .function-filter .value .dropbox {
+    cursor: pointer;
+}
+#credits .changelog .bar-title .function-filter .value ul {
+    margin: 0;
+}
+#credits .changelog .bar-title .function-filter .value .list-value {
+    background: #fff;
+    padding: 5px 10px;
+    border: 1px solid #e1e4e6;
+    position: absolute;
+    z-index: 999;
+    margin-top: 10px;
+    left: -77px;
+}
+#credits .changelog .bar-title .function-filter .value .list-value li {
+    display: block;
+    background: #fff;
+    padding: 12px 0;
+    width: 150px;
+    border-bottom: 1px solid #e1e4e6;
+    cursor: pointer;
+}
+#credits .changelog .bar-title .function-filter .value .list-value li:last-child {
+    border-bottom: none;
+}
+#credits .changelog .bar-title .function-filter .value .list-value li i {
+    padding-right: 8px;
+}
+#credits .changelog .bar-title .function-filter .value .list-value li a {
+    display: block;
+}
+#credits .changelog .bar-title .function-filter .date {
+    position: relative;
+}
+#credits .changelog .bar-title .function-filter .date input {
+    border: none;
+    color: #00b0ff;
+    width: 65px;
+    cursor: pointer;
+}
+#credits .changelog .changelog-list ul {
+    margin: 10px 0 0;
+    padding-left: 0;
+}
+#credits .changelog .changelog-list ul li {
+    display: block;
+    position: relative;
+    border-bottom: 1px solid #f5f7f9;
+    padding: 13px 0 6px;
+    font-size: 12px;
+}
+#credits .changelog .changelog-list ul li .information-detail i {
+    padding-right: 5px;
+}
+#credits .changelog .changelog-list ul li .information-detail span {
+    font-weight: 600;
+}
+#credits .changelog .changelog-list ul li .information-detail .price {
+    color: #666f78;
+    font-weight: 700;
+}
+#credits .changelog .changelog-list ul li .information-status {
+    position: absolute;
+    right: 0;
+    top: 13px;
+    text-align: right;
+}
+#credits .changelog .changelog-list ul li .information-status .date {
+    color: #90a4ae;
+    font-weight: 500;
+    margin-bottom: 17px;
+}
+#credits .changelog .changelog-list ul li .information-status .status {
+    font-weight: 400;
+    font-size: 10px;
+}
+#credits .changelog .changelog-list ul li .information-status i {
+    padding-left: 5px;
+}
+
+.withdraw .modal-header {
+    padding: 40px 35px 19px;
+}
+.withdraw .balance-withdraw {
+    border-bottom: 1px solid #d7d9da;
+    padding: 20px 0;
+    font-weight: 600;
+}
+.withdraw .balance-withdraw .current, .withdraw .balance-withdraw .available {
+    margin-bottom: 25px;
+}
+.withdraw .balance-withdraw .current, .withdraw .balance-withdraw .available, .withdraw .balance-withdraw .frozen {
+    position: relative;
+    font-weight: 600;
+}
+.withdraw .balance-withdraw .current .price, .withdraw .balance-withdraw .available .price, .withdraw .balance-withdraw .frozen .price {
+    position: absolute;
+    right: 0;
+    font-weight: 600;
+}
+.withdraw .balance-withdraw .frozen .price {
+    color: #b0bec5;
+}
+.withdraw .amount-withdraw {
+    border-bottom: 1px solid #d7d9da;
+    padding: 30px 0;
+    position: relative;
+}
+.withdraw .amount-withdraw .title {
+    font-weight: 600;
+}
+.withdraw .amount-withdraw p {
+    margin-bottom: 0;
+}
+.withdraw .amount-withdraw .price-amount {
+    font-size: 10px;
+    width: 58%;
+}
+.withdraw .amount-withdraw .input-amount {
+    position: absolute;
+    right: 0;
+    top: 25px;
+    text-align: right;
+}
+.withdraw .amount-withdraw .input-amount.error i{
+    position: absolute;
+    right: 12px;
+    top: 15px;
+    text-align: right;
+}
+.withdraw .amount-withdraw .input-amount input {
+    border-radius: 4px;
+    border: 1px solid #d7d9da;
+    height: 42px;
+    padding-left: 10px;
+    width: 123px;
+}
+.withdraw .security-code {
+    border-bottom: none;
+}
+.withdraw .payment {
+    margin-top: 30px;
+    border-bottom: 1px solid #d7d9da;
+    padding-bottom: 25px;
+}
+.withdraw .payment label {
+    margin-bottom: 20px;
+}
+.withdraw .payment textarea {
+    width: 100%;
+    height: 170px;
+    border-radius: 4px;
+    padding: 15px;
+}
+.withdraw .btn-submit {
+    padding: 12px 60px;
+    margin-bottom: 20px;
+}
+@media (max-width:480px){
+    .balance-withdraw{
+        border-top:none;
+    }
+}

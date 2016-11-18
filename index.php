@@ -9,7 +9,7 @@
 <html lang="en-US">
 <!--<![endif]-->
 <head>
-    	<meta charset="UTF-8">
+	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1 ,user-scalable=no">
 
   <!-- style for index -->
@@ -26,8 +26,8 @@
 	<title>Freelancer | Freelance Web Site</title>
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="http://richpersian.com/demo/xmlrpc.php">
-    <link href="http://richpersian.com/demo/wp-content/themes/freelanceengine/img/favicon.png" rel="shortcut icon" type="image/x-icon">	<!--[if lt IE 9]>
-                <script src="http://richpersian.com/demo/wp-content/themes/freelanceengine/includes/aecore/assets/js/html5.js"></script>
+  <link href="assets/images/favicon.png" rel="shortcut icon" type="image/x-icon">	<!--[if lt IE 9]>
+        <script src="http://richpersian.com/demo/wp-content/themes/freelanceengine/includes/aecore/assets/js/html5.js"></script>
             <![endif]-->		<script type="text/javascript" id="current_user">
             var currentUser = {"id":0,"ID":0};
             var is_mobile = false            </script>
@@ -41,345 +41,302 @@
             var currentUser = {"id":0,"ID":0};
             var is_mobile = false            </script>
         <meta name='robots' content='noindex,follow' />
-<link rel="alternate" type="application/rss+xml" title="Freelancer &raquo; Feed" href="http://richpersian.com/demo/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Freelancer &raquo; Comments Feed" href="http://richpersian.com/demo/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Freelancer &raquo; Home Comments Feed" href="http://richpersian.com/demo/home/feed/" />
-		<script type="text/javascript">
+  <link rel="alternate" type="application/rss+xml" title="Freelancer &raquo; Feed" href="assets/txt/feed.txt" />
+  <link rel="alternate" type="application/rss+xml" title="Freelancer &raquo; Comments Feed" href="assets/txt/feed_comments.txt" />
+  <link rel="alternate" type="application/rss+xml" title="Freelancer &raquo; Home Comments Feed" href="assets/txt/feed_home.txt" />
+		<!--script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/richpersian.com\/demo\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.4"}};
 			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
+		</script-->
+		<!--style type="text/css">
+      img.wp-smiley,
+      img.emoji {
+      	display: inline !important;
+      	border: none !important;
+      	box-shadow: none !important;
+      	height: 1em !important;
+      	width: 1em !important;
+      	margin: 0 .07em !important;
+      	vertical-align: -0.1em !important;
+      	background: none !important;
+      	padding: 0 !important;
+      }
+    </style-->
 
-
-
-</style>
-<link rel='stylesheet' id='dashicons-css'  href='http://richpersian.com/demo/wp-includes/css/dashicons.min.css?ver=4.5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-jquery-ui-dialog-css'  href='http://richpersian.com/demo/wp-includes/css/jquery-ui-dialog.min.css?ver=4.5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='bootstrap-css'  href='http://richpersian.com/demo/wp-content/themes/freelanceengine/includes/aecore/assets/css/bootstrap.min.css?ver=3.0' type='text/css' media='all' />
-<link rel='stylesheet' id='ae-milestone-style-css'  href='http://richpersian.com/demo/wp-content/plugins/fre_milestone//assets/css/ae-milestone.css?ver=1.0' type='text/css' media='all' />
-<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://richpersian.com/demo/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.1.6' type='text/css' media='all' />
-<style id='rs-plugin-settings-inline-css' type='text/css'>
-#rs-demo-id {}
-</style>
-<link rel='stylesheet' id='fre_credit_css-css'  href='http://richpersian.com/demo/wp-content/plugins/fre_credit/assets/fre_credit_plugincss.css?ver=1.0' type='text/css' media='all' />
-<link rel='stylesheet' id='ae_plugin_css-css'  href='http://richpersian.com/demo/wp-content/plugins/fre_private_message/assets/plugincss.css?ver=1.0' type='text/css' media='all' />
-<link rel='stylesheet' id='social-connect-style-css'  href='http://richpersian.com/demo/wp-content/themes/freelanceengine/includes/aecore/social/css/default.css?ver=4.5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='js_composer_front-css'  href='//richpersian.com/demo/wp-content/uploads/js_composer/js_composer_front_custom.css?ver=4.11.2.1' type='text/css' media='all' />
-<link rel='stylesheet' id='font-icon-css'  href='http://richpersian.com/demo/wp-content/themes/freelanceengine/assets/css/font-awesome.min.css?ver=1.7.4' type='text/css' media='all' />
-<link rel='stylesheet' id='chosen-css'  href='http://richpersian.com/demo/wp-content/themes/freelanceengine/css/chosen.css?ver=4.5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='datepicker-css-css'  href='http://richpersian.com/demo/wp-content/themes/freelanceengine/assets/css/bootstrap-datetimepicker.min.css?ver=4.5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='main-style-css'  href='http://richpersian.com/demo/wp-content/themes/freelanceengine/assets/css/styles.css?ver=4.5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='custom-css'  href='http://richpersian.com/demo/wp-content/themes/freelanceengine/css/custom.css?ver=4.5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='freelanceengine-style-css'  href='http://richpersian.com/demo/wp-content/themes/freelanceengine-child/style.css?ver=4.5.4' type='text/css' media='all' />
-<script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/themes/freelanceengine/assets/js/modernizr.custom.js?ver=1.7.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.1.6'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.1.6'></script>
-<!--[if lt IE 9]>
+  <link rel='stylesheet' id='dashicons-css'  href='assets/css/dashicons.min.css' type='text/css' media='all' />
+  <link rel='stylesheet' id='wp-jquery-ui-dialog-css'  href='assets/css/jquery-ui-dialog.min.css' type='text/css' media='all' />
+  <link rel='stylesheet' id='bootstrap-css'  href='assets/css/bootstrap.min.css' type='text/css' media='all' />
+  <link rel='stylesheet' id='ae-milestone-style-css'  href='assets/css/ae-milestone.css' type='text/css' media='all' />
+  <link rel='stylesheet' id='rs-plugin-settings-css'  href='assets/css/settings.css' type='text/css' media='all' />
+  <style id='rs-plugin-settings-inline-css' type='text/css'>
+    #rs-demo-id {}
+  </style>
+  <link rel='stylesheet' id='fre_credit_css-css'  href='assets/css/fre_credit_plugincss.css' type='text/css' media='all' />
+  <link rel='stylesheet' id='ae_plugin_css-css'  href='assets/css/plugincss.css' type='text/css' media='all' />
+  <link rel='stylesheet' id='social-connect-style-css'  href='assets/css/default.css' type='text/css' media='all' />
+  <link rel='stylesheet' id='js_composer_front-css'  href='assets/css/js_composer_front_custom.css' type='text/css' media='all' />
+  <link rel='stylesheet' id='font-icon-css'  href='assets/css/font-awesome.min.css' type='text/css' media='all' />
+  <link rel='stylesheet' id='chosen-css'  href='assets/css/chosen.css' type='text/css' media='all' />
+  <link rel='stylesheet' id='datepicker-css-css'  href='assets/css/bootstrap-datetimepicker.min.css' type='text/css' media='all' />
+  <link rel='stylesheet' id='main-style-css'  href='assets/css/slide_styles.css' type='text/css' media='all' />
+  <link rel='stylesheet' id='custom-css'  href='assets/css/slide_custom.css' type='text/css' media='all' />
+  <link rel='stylesheet' id='freelanceengine-style-css'  href='assets/css/slide_style.css' type='text/css' media='all' />
+  <!--script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script-->
+  <script type='text/javascript' src='assets/js/jquery-migrate.min.js'></script>
+  <script type='text/javascript' src='assets/js/modernizr.custom.js'></script>
+  <script type='text/javascript' src='assets/js/jquery.themepunch.tools.min.js'></script>
+  <script type='text/javascript' src='assets/js/jquery.themepunch.revolution.min.js'></script>
+  <!--[if lt IE 9]>
                 <script src="http://richpersian.com/demo/wp-content/themes/freelanceengine/includes/aecore/assets/js/html5.js"></script>
-            <![endif]--><link rel='https://api.w.org/' href='http://richpersian.com/demo/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://richpersian.com/demo/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://richpersian.com/demo/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 4.5.4" />
-<link rel="canonical" href="http://richpersian.com/demo/" />
-<link rel='shortlink' href='http://richpersian.com/demo/' />
-<link rel="alternate" type="application/json+oembed" href="http://richpersian.com/demo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Frichpersian.com%2Fdemo%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://richpersian.com/demo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Frichpersian.com%2Fdemo%2F&#038;format=xml" />
-    <style type="text/css">
-    .custom-field .chosen-container{
-        display: block;
-    }
-    .custom-field .chosen-container .chosen-single{
-        border-radius: 0;
-        padding-left: 12px;
-        height: 34px;
-        line-height: 34px;
-        background: transparent;
-        border: 1px solid #d7d8da;
-        box-shadow: none;
-    }
-    .custom-field .chosen-container-single .chosen-single div b {
-        background: url(../img/chosen-sprite.png) no-repeat 0 6px;
-    }
-    .custom-field input[type=checkbox],
-    .custom-field input[type=radio]{
-        margin-right: 5px;
-    }
-    .custom-field.radio-field .fa-exclamation-triangle,
-    .custom-field.checkbox-field .fa-exclamation-triangle{
-        top:30px;
-    }
-    .checkbox-field.error  .fa-exclamation-triangle,
-    .radio-field.error  .fa-exclamation-triangle {
-        top : 5px;
-    }
-    .custom-field.radio-field .message,
-    .custom-field.checkbox-field .message {
-        margin-top: -10px;
-    }
-    .form_modal_style label {
-        display: inline-block;
-    }
-    .form-group.custom-field  label.control-label {
-        display: block;
-    }
-    textarea.form-control {
-        padding-top : 10px;
-    }
+            <![endif]--><link rel='https://api.w.org/' href='assets/json/json_demo' />
+  <link rel="EditURI" type="application/rsd+xml" title="RSD" href="assets/xml/xmlrpc.php.xml" />
+  <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="assets/xml/wlwmanifest.xml" /> 
+  <meta name="generator" content="WordPress 4.5.4" />
+  <!-- <link rel="canonical" href="http://richpersian.com/demo/" /> -->
+  <!-- <link rel='shortlink' href='http://richpersian.com/demo/' /> -->
+  <link rel="alternate" type="application/json+oembed" href="assets/json/embed" />
+  <link rel="alternate" type="text/xml+oembed" href="assets/json/embed_xml" />
+  <!--style type="text/css">
+      .custom-field .chosen-container{
+          display: block;
+      }
+      .custom-field .chosen-container .chosen-single{
+          border-radius: 0;
+          padding-left: 12px;
+          height: 34px;
+          line-height: 34px;
+          background: transparent;
+          border: 1px solid #d7d8da;
+          box-shadow: none;
+      }
+      .custom-field .chosen-container-single .chosen-single div b {
+          background: url(../img/chosen-sprite.png) no-repeat 0 6px;
+      }
+      .custom-field input[type=checkbox],
+      .custom-field input[type=radio]{
+          margin-right: 5px;
+      }
+      .custom-field.radio-field .fa-exclamation-triangle,
+      .custom-field.checkbox-field .fa-exclamation-triangle{
+          top:30px;
+      }
+      .checkbox-field.error  .fa-exclamation-triangle,
+      .radio-field.error  .fa-exclamation-triangle {
+          top : 5px;
+      }
+      .custom-field.radio-field .message,
+      .custom-field.checkbox-field .message {
+          margin-top: -10px;
+      }
+      .form_modal_style label {
+          display: inline-block;
+      }
+      .form-group.custom-field  label.control-label {
+          display: block;
+      }
+      textarea.form-control {
+          padding-top : 10px;
+      }
 
-    .ae-field-title {
-        color: #2c3d4f;
-        font-size: 18px;
-        font-weight: 700;
-        margin: 0 0 15px;
-        display: block;
-    }
-    .custom-field-wrapper a {
-        color: #5d5f5e;
-    }
-    .custom-field-wrapper li {
-        padding: 5px 10px;
-        -moz-border-radius: 3px;
-        -webkit-border-radius: 3px;
-        border-radius: 3px;
-        -moz-background-clip: padding;
-        -webkit-background-clip: padding-box;
-        background-clip: padding-box;
-        background-color: #f1f5f7;
-        margin-right: 10px;
-        margin-bottom: 10px;
-        display: inline-block;
-    }
-    .custom-field-wrapper ul {
-        padding: 0;
-        margin: 0;
-        list-style: none
-    }
-</style>
-		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+      .ae-field-title {
+          color: #2c3d4f;
+          font-size: 18px;
+          font-weight: 700;
+          margin: 0 0 15px;
+          display: block;
+      }
+      .custom-field-wrapper a {
+          color: #5d5f5e;
+      }
+      .custom-field-wrapper li {
+          padding: 5px 10px;
+          -moz-border-radius: 3px;
+          -webkit-border-radius: 3px;
+          border-radius: 3px;
+          -moz-background-clip: padding;
+          -webkit-background-clip: padding-box;
+          background-clip: padding-box;
+          background-color: #f1f5f7;
+          margin-right: 10px;
+          margin-bottom: 10px;
+          display: inline-block;
+      }
+      .custom-field-wrapper ul {
+          padding: 0;
+          margin: 0;
+          list-style: none
+      }
+  </style-->
+		<!--style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style-->
 		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
-<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://richpersian.com/demo/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://richpersian.com/demo/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.1.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1416796736588{background-image: url(http://enginethemes.com/demo/freelanceengine/wp-content/uploads/2014/11/fre7.jpg?id=339) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style id="css-customize">body {
-  background-color: #ffffff;
-  background-repeat: repeat;
-  color: #777978;
-  color: #737373;
-  font-family: Raleway;
-}
-h1,
-.h1,
-h2,
-.h2,
-h3,
-.h3,
-h4,
-.h4,
-h5,
-.h5,
-h6,
-.h6 {
-  font-family: Raleway;
-}
-#bar-post-place-wrapper {
-  background-color: #ffffff !important;
-}
-.list-places .place-wrapper .place-detail-wrapper {
-  background-color: #ffffff;
-}
-.title-filter,
-.filter-wrapper .widgettitle,
-#page h2.widgettitle {
-  color: #595959;
-}
-.vc_separator.vc_sep_color_grey .vc_sep_line {
-  border-color: #cccccc;
-}
-.top-header,
-#header-wrapper.sticky {
-  background-color: #2980B9;
-  color: #fcfdfe;
-  -webkit-box-shadow: 0 1px 0 #20638f;
-  -moz-box-shadow: 0 1px 0 #20638f;
-  box-shadow: 0 1px 0 #20638f;
-}
-#header-wrapper.sticky {
-  background-color: #2980B9 !important;
-}
-.box-shadow-style-theme {
-  -webkit-box-shadow: 0 1px 0 #20638f;
-  -moz-box-shadow: 0 1px 0 #20638f;
-  box-shadow: 0 1px 0 #20638f;
-}
-.container.search-form-top {
-  background-color: #2980B9;
-}
-#header-wrapper.sticky .btn-menu-call li a,
-#header-wrapper.sticky .btn-menu-call li .trigger-menu i,
-#header-wrapper.sticky .btn-menu-call li .trigger-search i,
-#header-wrapper.sticky .dropdown-info-acc-wrapper .avatar-and-name,
-#header-wrapper.not-page-home .btn-menu-call li a,
-#header-wrapper.not-page-home .btn-menu-call li .trigger-menu i,
-#header-wrapper.not-page-home .btn-menu-call li .trigger-search i,
-#header-wrapper.not-page-home .dropdown-info-acc-wrapper .avatar-and-name,
-#header-wrapper.sticky .dropdown-info-acc-wrapper .care,
-.title-search-form-top {
-  color: #fcfdfe;
-}
-input#s {
-  border-color: #2e8ece;
-}
-.login-form-header-wrapper .dropdown-menu {
-  background: #e7f2fa;
-}
-footer {
-  background-color: #F4F6F5;
-}
-footer,
-footer a:hover,
-footer h2.widgettitle {
-  color: #5e7369;
-}
-footer a,
-footer .widget ul li a {
-  color: #8E44AD;
-}
-.list-project li .wrapper-btn .btn-apply-project,
-.btn-apply-project-item,
-.btn-view-profile,
-.btn-excecute-project,
-s.btn-refund-project,
-.pricing:hover .btn-price,
-.pricing.active .btn-price,
-.btn-sub-create,
-.info-bidding .number-price-project .btn-accept-bid,
-.tab-content-profile .block-profiles input.btn-submit,
-.content-report-wrapper .submit-chat-content,
-.fre-main-button {
-  background-color: #8E44AD;
-  -webkit-box-shadow: 0 2px 0 #703688;
-  -moz-box-shadow: 0 2px 0 #703688;
-  box-shadow: 0 2px 0 #703688;
-}
-.title-heading h3,
-.paginations-wrapper a:hover,
-.paginations-wrapper span.page-numbers.current,
-.odometer,
-.setting-profile-wrapper .list-setting li a.logout-link {
-  color: #8E44AD;
-}
-.pricing.active .pricing-number {
-  background: #8E44AD;
-}
-.bg-sub-wrapper .color-left,
-.bg-sub-wrapper .color-right {
-  background-color: rgba(142,68,173,0.9);
-}
-.ribbon:after {
-  border: 25px solid #8E44AD;
-  border-top-width: 0.5em;
-  border-bottom-color: rgba(0,0,0,0);
-}
-.ribbon {
-  background: #8E44AD;
-}
-@media (max-width: 768px) {
-  .ribbon {
-    width: 40px;
-  }
-  .ribbon:after {
-    border: 20px solid #8E44AD;
-    border-top-width: 0.5em;
-    border-bottom-color: rgba(0,0,0,0);
-  }
-}
-.overlay,
-.bg-sub-wrapper .color-right {
-  background-color: rgba(55,131,196,0.9);
-}
-.pricing-number,
-.btn-sub-post,
-.btn-price {
-  background: #3783C4;
-}
-#submit {
-  background-color: #3783C4;
-}
-.btn-price {
-  -webkit-box-shadow: 0 2px 0 #2c689c;
-  -moz-box-shadow: 0 2px 0 #2c689c;
-  box-shadow: 0 2px 0 #2c689c;
-}
-.btn-sub-post {
-  background-color: #3783C4;
-  -webkit-box-shadow: 0 2px 0 #2c689c;
-  -moz-box-shadow: 0 2px 0 #2c689c;
-  box-shadow: 0 2px 0 #2c689c;
-}
-a,
-a:hover,
-a:focus,
-.paginations-wrapper a.load-more-post,
-.single-projects .info-project-item .info-item > li .number-blue,
-.info-bidding .number-price-project span.number-price,
-.setting-profile-wrapper .list-setting li a,
-.user-bid-item-info .info-item .number-blue,
-.list-history-profile .name-history .content-bid-item-history h5 a,
-.add-porfolio-button a,
-b.currency {
-  color: #3783C4;
-}
-.slider-selection {
-  background: #3783C4;
-}
-.btn-post-project,
-.step-content-wrapper .list-price li .btn.btn-submit-price-plan,
-.btn.btn-submit-login-form {
-  background-color: #3783C4;
-  -webkit-box-shadow: 0 2px 0 #2c689c;
-  -moz-box-shadow: 0 2px 0 #2c689c;
-  box-shadow: 0 2px 0 #2c689c;
-}
-ul.wpb_tabs_nav > li.ui-tabs-active > a,
-.nav-tabs-project .nav-tabs > li > a:hover,
-.nav-tabs-profile .nav-tabs > li > a:hover {
-  border-color: #3783C4;
-}
-#notification_container .position-employer,
-.list-profile .profile-content .top-profile .position-profile,
-.test-position,
-.info-profile-freelancer-bidding .position-profile {
-  color: #3783C4;
-}
-.nav-tabs-profile .nav-tabs > li > a:hover,
-.nav-tabs-profile .nav-tabs > li.active > a,
-ul.wpb_tabs_nav > li > a:hover,
-ul.wpb_tabs_nav.profile > li.ui-tabs-active > a,
-ul.wpb_tabs_nav.profile > li > a:hover {
-  border-color: #3783C4;
-}
-.btn-post-profile,
-.submit-proceed-report {
-  background-color: #3783C4;
-  -webkit-box-shadow: 0 2px 0 #2c689c;
-  -moz-box-shadow: 0 2px 0 #2c689c;
-  box-shadow: 0 2px 0 #2c689c;
-}
-
-
-</style></head>
+  <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://richpersian.com/demo/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://richpersian.com/demo/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.1.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+  <style type="text/css" data-type="vc_shortcodes-custom-css">
+    .vc_custom_1416796736588 {
+      background-image: url(http://enginethemes.com/demo/freelanceengine/wp-content/uploads/2014/11/fre7.jpg?id=339) !important;
+      background-position: center !important;
+      background-repeat: no-repeat !important;
+      background-size: cover !important;
+    }
+  </style>
+  <noscript>
+    <style type="text/css"> 
+      .wpb_animate_when_almost_visible { 
+        opacity: 1; 
+      }
+    </style>
+  </noscript>
+  <style id="css-customize">
+    body {
+      background-color: #ffffff;
+      background-repeat: repeat;
+      color: #777978;
+      color: #737373;
+      font-family: Raleway;
+    }
+    h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6 {
+      font-family: Raleway;
+    }
+    #bar-post-place-wrapper {
+      background-color: #ffffff !important;
+    }
+    .list-places .place-wrapper .place-detail-wrapper {
+      background-color: #ffffff;
+    }
+    .title-filter,.filter-wrapper .widgettitle,  #page h2.widgettitle {
+      color: #595959;
+    }
+    .vc_separator.vc_sep_color_grey .vc_sep_line {
+      border-color: #cccccc;
+    }
+    .top-header, #header-wrapper.sticky {
+      background-color: #2980B9;
+      color: #fcfdfe;
+      -webkit-box-shadow: 0 1px 0 #20638f;
+      -moz-box-shadow: 0 1px 0 #20638f;
+      box-shadow: 0 1px 0 #20638f;
+    }
+    #header-wrapper.sticky {
+      background-color: #2980B9 !important;
+    }
+    .box-shadow-style-theme {
+      -webkit-box-shadow: 0 1px 0 #20638f;
+      -moz-box-shadow: 0 1px 0 #20638f;
+      box-shadow: 0 1px 0 #20638f;
+    }
+    .container.search-form-top {
+      background-color: #2980B9;
+    }
+    #header-wrapper.sticky .btn-menu-call li a, #header-wrapper.sticky .btn-menu-call li .trigger-menu i,
+    #header-wrapper.sticky .btn-menu-call li .trigger-search i, #header-wrapper.sticky .dropdown-info-acc-wrapper .avatar-and-name,
+    #header-wrapper.not-page-home .btn-menu-call li a, #header-wrapper.not-page-home .btn-menu-call li .trigger-menu i,
+    #header-wrapper.not-page-home .btn-menu-call li .trigger-search i, #header-wrapper.not-page-home .dropdown-info-acc-wrapper .avatar-and-name,
+    #header-wrapper.sticky .dropdown-info-acc-wrapper .care, .title-search-form-top {
+      color: #fcfdfe;
+    }
+    input#s {
+      border-color: #2e8ece;
+    }
+    .login-form-header-wrapper .dropdown-menu {
+      background: #e7f2fa;
+    }
+    footer {
+      background-color: #F4F6F5;
+    }
+    footer,  footer a:hover,  footer h2.widgettitle {
+      color: #5e7369;
+    }
+    footer a,  footer .widget ul li a {
+      color: #8E44AD;
+    }
+    .list-project li .wrapper-btn .btn-apply-project, .btn-apply-project-item, .btn-view-profile, .btn-excecute-project, s.btn-refund-project,
+    .pricing:hover .btn-price, .pricing.active .btn-price, .btn-sub-create, .info-bidding .number-price-project .btn-accept-bid,
+    .tab-content-profile .block-profiles input.btn-submit, .content-report-wrapper .submit-chat-content, .fre-main-button {
+      background-color: #8E44AD;
+      -webkit-box-shadow: 0 2px 0 #703688;
+      -moz-box-shadow: 0 2px 0 #703688;
+      box-shadow: 0 2px 0 #703688;
+    }
+    .title-heading h3, .paginations-wrapper a:hover, .paginations-wrapper span.page-numbers.current, .odometer,
+    .setting-profile-wrapper .list-setting li a.logout-link {
+      color: #8E44AD;
+    }
+    .pricing.active .pricing-number {
+      background: #8E44AD;
+    }
+    .bg-sub-wrapper .color-left, .bg-sub-wrapper .color-right {
+      background-color: rgba(142,68,173,0.9);
+    }
+    .ribbon:after {
+      border: 25px solid #8E44AD;
+      border-top-width: 0.5em;
+      border-bottom-color: rgba(0,0,0,0);
+    }
+    .ribbon {
+      background: #8E44AD;
+    }
+    @media (max-width: 768px) {
+      .ribbon {
+        width: 40px;
+      }
+      .ribbon:after {
+        border: 20px solid #8E44AD;
+        border-top-width: 0.5em;
+        border-bottom-color: rgba(0,0,0,0);
+      }
+    }
+    .overlay,.bg-sub-wrapper .color-right {
+      background-color: rgba(55,131,196,0.9);
+    }
+    .pricing-number, .btn-sub-post, .btn-price {
+      background: #3783C4;
+    }
+    #submit {
+      background-color: #3783C4;
+    }
+    .btn-price {
+      -webkit-box-shadow: 0 2px 0 #2c689c;
+      -moz-box-shadow: 0 2px 0 #2c689c;
+      box-shadow: 0 2px 0 #2c689c;
+    }
+    .btn-sub-post {
+      background-color: #3783C4;
+      -webkit-box-shadow: 0 2px 0 #2c689c;
+      -moz-box-shadow: 0 2px 0 #2c689c;
+      box-shadow: 0 2px 0 #2c689c;
+    }
+    a,  a:hover,  a:focus,  .paginations-wrapper a.load-more-post,  .single-projects .info-project-item .info-item > li .number-blue,
+    .info-bidding .number-price-project span.number-price,  .setting-profile-wrapper .list-setting li a,  .user-bid-item-info .info-item .number-blue,
+    .list-history-profile .name-history .content-bid-item-history h5 a,  .add-porfolio-button a,  b.currency {
+      color: #3783C4;
+    }
+    .slider-selection {
+      background: #3783C4;
+    }
+    .btn-post-project,  .step-content-wrapper .list-price li .btn.btn-submit-price-plan,  .btn.btn-submit-login-form {
+      background-color: #3783C4;
+      -webkit-box-shadow: 0 2px 0 #2c689c;
+      -moz-box-shadow: 0 2px 0 #2c689c;
+      box-shadow: 0 2px 0 #2c689c;
+    }
+    ul.wpb_tabs_nav > li.ui-tabs-active > a,  .nav-tabs-project .nav-tabs > li > a:hover,  .nav-tabs-profile .nav-tabs > li > a:hover {
+      border-color: #3783C4;
+    }
+    #notification_container .position-employer,  .list-profile .profile-content .top-profile .position-profile,
+    .test-position,  .info-profile-freelancer-bidding .position-profile {
+      color: #3783C4;
+    }
+    .nav-tabs-profile .nav-tabs > li > a:hover,  .nav-tabs-profile .nav-tabs > li.active > a,  ul.wpb_tabs_nav > li > a:hover,
+    ul.wpb_tabs_nav.profile > li.ui-tabs-active > a,  ul.wpb_tabs_nav.profile > li > a:hover {
+      border-color: #3783C4;
+    }
+    .btn-post-profile,  .submit-proceed-report {
+      background-color: #3783C4;
+      -webkit-box-shadow: 0 2px 0 #2c689c;
+      -moz-box-shadow: 0 2px 0 #2c689c;
+      box-shadow: 0 2px 0 #2c689c;
+    }
+  </style>
+</head>
 
 <body class="home page page-id-8 page-template page-template-page-home page-template-page-home-php wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive two-column right-sidebar">
 <!-- MENU DOOR -->
@@ -390,168 +347,185 @@ ul.wpb_tabs_nav.profile > li > a:hover {
             	<a href="javascript:void(0);" class="overlay-close"><i class="fa fa-times"></i></a>
             </div>
         </div>
-    </div>
+  </div>
     <!-- MENU -->
-	<nav class="menu-fullscreen"><ul id="menu-menu" class="menu-main"><li id="menu-item-577" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-has-children menu-item-577 active "><a href="http://richpersian.com/demo/">HOME</a>
-<ul class="sub-menu">
-	<li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-584"><a href="http://richpersian.com/demo/home2/">Home 2</a></li>
-	<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-585"><a href="http://richpersian.com/demo/home3/">Home 3</a></li>
-</ul>
-</li>
-<li id="menu-item-579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-579"><a href="http://richpersian.com/demo/about-us/">ABOUT</a></li>
-<li id="menu-item-567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-567"><a href="http://richpersian.com/demo/projects">PROJECTS</a>
-<ul class="sub-menu">
-	<li id="menu-item-568" class="menu-item menu-item-type-taxonomy menu-item-object-project_type menu-item-568"><a href="http://richpersian.com/demo/project_type/full-time/">Full time</a></li>
-	<li id="menu-item-569" class="menu-item menu-item-type-taxonomy menu-item-object-project_type menu-item-569"><a href="http://richpersian.com/demo/project_type/urgent/">Urgent</a></li>
-</ul>
-</li>
-<li id="menu-item-576" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-576"><a href="http://richpersian.com/demo/profiles">Profiles</a></li>
-<li id="menu-item-578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-578"><a href="http://richpersian.com/demo/blog/">BLOG</a></li>
-<li id="menu-item-604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a href="http://richpersian.com/demo/buy-credits/">Buy Credits</a></li>
-</ul></nav>    <!-- MENU / END -->
+	<nav class="menu-fullscreen">
+    <ul id="menu-menu" class="menu-main">
+      <li id="menu-item-577" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-has-children menu-item-577 active ">
+        <a href="http://richpersian.com/demo/">HOME</a>
+        <ul class="sub-menu">
+          <li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-584">
+            <a href="http://richpersian.com/demo/home2/">Home 2</a>
+          </li>
+          <li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-585">
+            <a href="http://richpersian.com/demo/home3/">Home 3</a>
+          </li>
+        </ul>
+      </li>
+      <li id="menu-item-579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-579">
+        <a href="http://richpersian.com/demo/about-us/">ABOUT</a>
+      </li>
+      <li id="menu-item-567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-567">
+        <a href="http://richpersian.com/demo/projects">PROJECTS</a>
+        <ul class="sub-menu">
+          <li id="menu-item-568" class="menu-item menu-item-type-taxonomy menu-item-object-project_type menu-item-568">
+            <a href="http://richpersian.com/demo/project_type/full-time/">Full time</a>
+          </li>
+          <li id="menu-item-569" class="menu-item menu-item-type-taxonomy menu-item-object-project_type menu-item-569">
+            <a href="http://richpersian.com/demo/project_type/urgent/">Urgent</a>
+          </li>
+        </ul>
+      </li>
+      <li id="menu-item-576" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-576">
+        <a href="http://richpersian.com/demo/profiles">Profiles</a>
+      </li>
+      <li id="menu-item-578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-578">
+        <a href="http://richpersian.com/demo/blog/">BLOG</a>
+      </li>
+      <li id="menu-item-604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604">
+        <a href="http://richpersian.com/demo/buy-credits/">Buy Credits</a>
+      </li>
+    </ul>
+  </nav>    <!-- MENU / END -->
     <!-- SEARCH -->
-<div class="search-fullscreen" id="search_container">
+  <div class="search-fullscreen" id="search_container">
     <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="select-search-top">
-                    <select data-placeholder="Searching" class="search-filter chosen-select" data-chosen-width="300px" data-chosen-disable-search="true">
-                        <option value="project">Searching Projects</option>
-                        <option value="profile">Searching Freelancers</option>
-                    </select>
-                </div>
-            </div>
-            <!-- projects container -->
-            <div class="col-md-12 projects-search-container">
-                <p class="wrapper-input-search-top">
-                    <input type="text" name="s" class="search field-search-top" autocomplete="off" placeholder="TYPE KEYWORD HERE">
-                    <span class="search-text-press">Press Enter</span>
-                </p>
-                <p class="search-result-number search-msg"></p>
-                <div class="row title-tab-project">
-                    <div class="col-md-5 col-sm-5 col-xs-7">
-                        <span>PROJECT TITLE</span>
-                    </div>
-                    <div class="col-md-2 col-sm-3 hidden-xs">
-                        <span>BY</span>
-                    </div>
-                    <div class="col-md-2 col-sm-2 hidden-sm hidden-xs">
-                        <span>POSTED DATE</span>
-                    </div>
-                    <div class="col-md-1 col-sm-2 hidden-xs">
-                        <span>BUDGET</span>
-                    </div>
-                </div>
-                <ul class="list-project col-md-12 list-project1 project-list-container1" id="projects_list"></ul>
-                <div class="paginations-wrapper"></div>
-            </div>
-            <!-- profiles container -->
-            <div class="col-md-12 profiles-search-container collapse">
-                <p class="wrapper-input-search-top">
-                    <input type="text" name="s" class="search field-search-top" autocomplete="off" placeholder="TYPE KEYWORD HERE">
-                    <span class="search-text-press">Press Enter</span>
-                </p>
-                <p class="search-result-number search-msg"></p>
-                <div class="list-profile profile-list-container row" id="profiles_list">
-                    
-                </div>                
-                <div class="paginations-wrapper"></div>
-            </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="select-search-top">
+            <select data-placeholder="Searching" class="search-filter chosen-select" data-chosen-width="300px" data-chosen-disable-search="true">
+              <option value="project">Searching Projects</option>
+              <option value="profile">Searching Freelancers</option>
+            </select>
+          </div>
         </div>
+        <!-- projects container -->
+        <div class="col-md-12 projects-search-container">
+          <p class="wrapper-input-search-top">
+            <input type="text" name="s" class="search field-search-top" autocomplete="off" placeholder="TYPE KEYWORD HERE">
+            <span class="search-text-press">Press Enter</span>
+          </p>
+          <p class="search-result-number search-msg"></p>
+          <div class="row title-tab-project">
+            <div class="col-md-5 col-sm-5 col-xs-7">
+              <span>PROJECT TITLE</span>
+            </div>
+            <div class="col-md-2 col-sm-3 hidden-xs">
+              <span>BY</span>
+            </div>
+            <div class="col-md-2 col-sm-2 hidden-sm hidden-xs">
+              <span>POSTED DATE</span>
+            </div>
+            <div class="col-md-1 col-sm-2 hidden-xs">
+              <span>BUDGET</span>
+            </div>
+          </div>
+          <ul class="list-project col-md-12 list-project1 project-list-container1" id="projects_list"></ul>
+          <div class="paginations-wrapper"></div>
+        </div>
+        <!-- profiles container -->
+        <div class="col-md-12 profiles-search-container collapse">
+          <p class="wrapper-input-search-top">
+            <input type="text" name="s" class="search field-search-top" autocomplete="off" placeholder="TYPE KEYWORD HERE">
+            <span class="search-text-press">Press Enter</span>
+          </p>
+          <p class="search-result-number search-msg"></p>
+          <div class="list-profile profile-list-container row" id="profiles_list"></div>                
+          <div class="paginations-wrapper"></div>
+        </div>
+      </div>
     </div>
-</div>
-<script type="text/template" id="profile-no-result">
+  </div>
+  <script type="text/template" id="profile-no-result">
     <div class="col-md-12 no-result">
-        <p class="alert alert-info">
-            <i class="fa fa-info-circle"></i>&nbsp;Sorry, no results were found.        </p>
+      <p class="alert alert-info">
+        <i class="fa fa-info-circle"></i>&nbsp;Sorry, no results were found.        
+      </p>
     </div>  
-</script>
-<script type="text/template" id="project-no-result">
+  </script>
+  <script type="text/template" id="project-no-result">
     <li class="no-result">
-        <p class="alert alert-info">
-            <i class="fa fa-info-circle"></i>&nbsp;Sorry, no results were found.        </p>
+      <p class="alert alert-info">
+        <i class="fa fa-info-circle"></i>&nbsp;Sorry, no results were found.        
+      </p>
     </li>  
-</script>
-<!-- SEARCH / END -->    
+  </script>
+  <!-- SEARCH / END -->    
 </div>
 <!-- MENU DOOR / END -->
 <!-- HEADER -->
 <header id="header-wrapper" data-size="big" class="trans-color">
 	<div class="top-header">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 col-xs-4">
-                    <ul class="btn-menu-call">
-                                                <li><a href="javascript:void(0);" class="trigger-overlay trigger-menu"><i class="fa fa-bars"></i><span>MENU</span></a></li>
-                                                <li><a href="javascript:void(0);" class="trigger-overlay trigger-search"><i class="fa fa-search"></i><span>SEARCH</span></a></li>
-                    </ul>
-                </div>
-                <div class="col-md-4 col-xs-4">
-                                    <a href="http://richpersian.com/demo" class="logo site_logo_white"><img alt="Freelancer" src="http://richpersian.com/demo/wp-content/themes/freelanceengine/img/logo-fre-white.png" /></a>
-                    <a href="http://richpersian.com/demo" class="logo site_logo_black"><img alt="Freelancer" src="http://richpersian.com/demo/wp-content/themes/freelanceengine/img/logo-fre-black.png" /></a>
-                                </div>
-                <div class="col-md-4 col-xs-4">
-                	<div class="login-form-header-wrapper">
-						                            <div class="non-login">
-                                <a href="#" class="login login-btn">LOGIN</a>
-                                <a href="#" class="register register-btn">SIGN UP</a>
-                            </div>
-                                            </div>
-                </div>
-            </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 col-xs-4">
+          <ul class="btn-menu-call">
+            <li><a href="javascript:void(0);" class="trigger-overlay trigger-menu"><i class="fa fa-bars"></i><span>MENU</span></a></li>
+            <li><a href="javascript:void(0);" class="trigger-overlay trigger-search"><i class="fa fa-search"></i><span>SEARCH</span></a></li>
+          </ul>
         </div>
+        <div class="col-md-4 col-xs-4">
+          <a href="http://richpersian.com/demo" class="logo site_logo_white"><img alt="Freelancer" src="assets/images/logo-fre-white.png" /></a>
+          <a href="http://richpersian.com/demo" class="logo site_logo_black"><img alt="Freelancer" src="assets/images/logo-fre-black.png" /></a>
+        </div>
+        <div class="col-md-4 col-xs-4">
+        	<div class="login-form-header-wrapper">
+            <div class="non-login">
+              <a href="#" class="login login-btn">LOGIN</a>
+              <a href="#" class="register register-btn">SIGN UP</a>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
+  </div>
 </header><!-- HEADER / END -->
-	<iframe frameborder="0" src="lovebird/index.html" style="width: 100%; height: 100%;" scrolling="no"></iframe>
- 
-
+<iframe frameborder="0" src="lovebird/index.html" style="width: 100%; height: 100%;" scrolling="no"></iframe>
 
 <!-- SLIDER -->
 
-<div id="video-background-wrapper" class="covervid-wrapper" >
-    
-</div>
+<div id="video-background-wrapper" class="covervid-wrapper" ></div>
 <!-- SLIDER / END -->
 
 <script type="text/javascript">
-    (function($){
-        $(document).ready(function(){
-            var h = $(window).height(),
-                w = $(window).width();
-            $('.covervid-wrapper, .bg-sub-wrapper').css({'height':h+'px'});
-             
-            $('#video-background-wrapper').tubular({
-                videoId: 'VYMIPnhk1DI',
-                repeat : parseInt('0')
-            });
-                    });
-            $('#video-background-wrapper').css("display","none");
-    })(jQuery);
+  (function($){
+    $(document).ready(function(){
+      var h = $(window).height(),
+      w = $(window).width();
+      $('.covervid-wrapper, .bg-sub-wrapper').css({'height':h+'px'});         
+      $('#video-background-wrapper').tubular({
+        videoId: 'VYMIPnhk1DI',
+        repeat : parseInt('0')
+      });
+    });
+    $('#video-background-wrapper').css("display","none");
+  })(jQuery);
 </script>
 <script type="text/template" id="header_login_template">
 
-<div class="dropdown-info-acc-wrapper">
+  <div class="dropdown-info-acc-wrapper">
     <div class="et-dropdown dropdown">
-        <div class="dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
-            <span class="avatar">
-                <img alt="" src="{{= et_avatar_url }}" class="avatar avatar-96 photo avatar-default" height="96" width="96">
-                {{= display_name }}
-            </span>
-            <span class="caret"></span>
-        </div>
-        <ul class="dropdown-menu et-dropdown-login" role="menu" aria-labelledby="dropdownMenu1">
-            <li role="presentation">
-                <a role="menuitem" tabindex="-1" href="http://richpersian.com/demo/profile/" class="display-name">
-                    <i class="fa fa-user"></i>Your Profile                </a>
-            </li>
-                        <li role="presentation">
-                <a role="menuitem" tabindex="-1" href="http://richpersian.com/demo/wp-login.php?action=logout&amp;_wpnonce=fb66b7b2d1&amp;redirect_to=http%3A%2F%2Frichpersian.com%2Fdemo" class="logout">
-                    <i class="fa fa-sign-out"></i>Logout                </a>
-            </li>
-        </ul>
+      <div class="dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
+        <span class="avatar">
+          <img alt="" src="{{= et_avatar_url }}" class="avatar avatar-96 photo avatar-default" height="96" width="96">
+          {{= display_name }}
+        </span>
+        <span class="caret"></span>
+      </div>
+      <ul class="dropdown-menu et-dropdown-login" role="menu" aria-labelledby="dropdownMenu1">
+        <li role="presentation">
+          <a role="menuitem" tabindex="-1" href="http://richpersian.com/demo/profile/" class="display-name">
+            <i class="fa fa-user"></i>Your Profile                
+          </a>
+        </li>
+        <li role="presentation">
+          <a role="menuitem" tabindex="-1" href="http://richpersian.com/demo/wp-login.php?action=logout&amp;_wpnonce=fb66b7b2d1&amp;redirect_to=http%3A%2F%2Frichpersian.com%2Fdemo" class="logout">
+            <i class="fa fa-sign-out"></i>Logout                
+          </a>
+        </li>
+      </ul>
     </div>
-</div>
-	
+  </div>
 </script>
 
 
@@ -569,14 +543,12 @@ ul.wpb_tabs_nav.profile > li > a:hover {
 			</div>
 			<div class="modal-body">
 				<form role="form" id="signup_form" class="auth-form signup_form">
-                	<p class="user-type">
-                		<span class="user-text">What are you looking for?</span>
-
-                            <input type="checkbox" class="sign-up-switch" name="modal-check" value="employer"/>
-                            <span class="user-role text hire">
-                                Hire                            </span>
-                	</p>
-                	<input type="hidden" name="role" id="role" value="employer" />
+        	<p class="user-type">
+        		<span class="user-text">What are you looking for?</span>
+            <input type="checkbox" class="sign-up-switch" name="modal-check" value="employer"/>
+            <span class="user-role text hire">Hire</span>
+        	</p>
+        	<input type="hidden" name="role" id="role" value="employer" />
 					<div class="form-group">
 						<label for="user_login">Username</label>
 						<input type="text" class="form-control" id="user_login" name="user_login" placeholder="Enter username">
@@ -594,38 +566,36 @@ ul.wpb_tabs_nav.profile > li > a:hover {
 						<input type="password" class="form-control" id="repeat_pass" name="repeat_pass" placeholder="Retype password">
 					</div>
 					<div class="clearfix"></div>
-					                    					<button type="submit" class="btn-submit btn-sumary btn-sub-create">
-						Sign up					</button>
-										<p class="text-term">
-								                    By creating an account, you agree to our <a href="http://richpersian.com/demo">Term of Use and Privacy policy</a>		                					</p>
-								<div class="socials-head">You can also sign in by:</div>
-				<ul class="list-social-login">
-				    	<li>
-	    		<a href="#" class="fb facebook_auth_btn ">
-	    			<i class="fa fa-facebook"></i>
-	    			<span class="social-text">Facebook</span>
-	    		</a>
-	    	</li>
-	    		    		        <li>
-	        	<a href="#" class="gplus gplus_login_btn " >
-	        		<i class="fa fa-google-plus"></i>
-	        		<span class="social-text">Plus</span>
-	        	</a>
-	        </li>
-	        	    		        <li>
-	        	<a href="http://richpersian.com/demo?action=twitterauth" class="tw ">
-	        		<i class="fa fa-twitter"></i>
-	        		<span class="social-text">Twitter</span>
-	        	</a>
-	        </li>
-	        	        			<li>
-	    		<a href="#" class="lkin ">
-	    			<i class="fa fa-linkedin"></i>
-	    			<span class="social-text">Linkedin</span>
-	    		</a>
-	    	</li>
-				    </ul> 
-					</form>
+					<button type="submit" class="btn-submit btn-sumary btn-sub-create">Sign up</button>
+					<p class="text-term">By creating an account, you agree to our <a href="http://richpersian.com/demo">Term of Use and Privacy policy</a></p>
+					<div class="socials-head">You can also sign in by:</div>
+  				<ul class="list-social-login">
+			    	<li>
+    	    		<a href="#" class="fb facebook_auth_btn ">
+    	    			<i class="fa fa-facebook"></i>
+    	    			<span class="social-text">Facebook</span>
+    	    		</a>
+    	    	</li>
+		        <li>
+  	        	<a href="#" class="gplus gplus_login_btn " >
+  	        		<i class="fa fa-google-plus"></i>
+  	        		<span class="social-text">Plus</span>
+  	        	</a>
+  	        </li>
+		        <li>
+  	        	<a href="http://richpersian.com/demo?action=twitterauth" class="tw ">
+  	        		<i class="fa fa-twitter"></i>
+  	        		<span class="social-text">Twitter</span>
+  	        	</a>
+  	        </li>
+      			<li>
+    	    		<a href="#" class="lkin ">
+    	    			<i class="fa fa-linkedin"></i>
+    	    			<span class="social-text">Linkedin</span>
+    	    		</a>
+    	    	</li>
+			    </ul> 
+				</form>
 			</div>
 		</div><!-- /.modal-content -->
 	</div><!-- /.modal-dialog register -->
@@ -1411,7 +1381,7 @@ ul.wpb_tabs_nav.profile > li > a:hover {
                                     <div class="col-md-10 col-xs-10">
                                         <div class="avatar-freelancer-bidding">
                                                                                         <a class="private_msg_user_link" href=""><span class="avatar-profile">
-                                                <img alt="" src="http://0.gravatar.com/avatar/6334f9d721de4b0fd7ff770bb0134336?s=70&amp;d=&amp;r=G" class="avatar photo avatar-default" ></span>
+                                                <img alt="" src="assets/images/6334f9d721de4b0fd7ff770bb0134336.jpg" class="avatar photo avatar-default" ></span>
                                             </a>
                                         </div>
                                         <div class="info-profile-freelancer-bidding">
@@ -1498,81 +1468,81 @@ ul.wpb_tabs_nav.profile > li > a:hover {
                 <span class="date-conversation">{{= conversation_date }}</span>
             </div>
         </script>
-    <script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/wpdialog.min.js?ver=4.5.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/backbone.min.js?ver=1.2.3'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/plupload/plupload.full.min.js?ver=2.1.8'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/themes/freelanceengine/includes/aecore/assets/js/marionette.js?ver=1'></script>
+    <script type='text/javascript' src='assets/js/core.min.js'></script>
+<script type='text/javascript' src='assets/js/widget.min.js'></script>
+<script type='text/javascript' src='assets/js/mouse.min.js'></script>
+<script type='text/javascript' src='assets/js/resizable.min.js'></script>
+<script type='text/javascript' src='assets/js/draggable.min.js'></script>
+<script type='text/javascript' src='assets/js/button.min.js'></script>
+<script type='text/javascript' src='assets/js/position.min.js'></script>
+<script type='text/javascript' src='assets/js/dialog.min.js'></script>
+<script type='text/javascript' src='assets/js/wpdialog.min.js'></script>
+<script type='text/javascript' src='assets/js/underscore.min.js'></script>
+<script type='text/javascript' src='assets/js/backbone.min.js'></script>
+<script type='text/javascript' src='assets/js/plupload.full.min.js'></script>
+<script type='text/javascript' src='assets/js/marionette.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var ae_globals = {"ajaxURL":"http:\/\/richpersian.com\/demo\/wp-admin\/admin-ajax.php","imgURL":"http:\/\/richpersian.com\/demo\/wp-content\/themes\/freelanceengine\/includes\/aecore\/assets\/img\/","jsURL":"http:\/\/richpersian.com\/demo\/wp-content\/themes\/freelanceengine\/includes\/aecore\/assets\/js\/","loadingImg":"<img class=\"loading loading-wheel\" src=\"http:\/\/richpersian.com\/demo\/wp-content\/themes\/freelanceengine\/includes\/aecore\/assets\/img\/loading.gif\" alt=\"Loading...\">","loading":"Loading","ae_is_mobile":"0","plupload_config":{"max_file_size":"1024mb","url":"http:\/\/richpersian.com\/demo\/wp-admin\/admin-ajax.php","flash_swf_url":"http:\/\/richpersian.com\/demo\/wp-includes\/js\/plupload\/plupload.flash.swf","silverlight_xap_url":"http:\/\/richpersian.com\/demo\/wp-includes\/js\/plupload\/plupload.silverlight.xap","filters":[{"title":"Image Files","extensions":"jpg,jpeg,gif,png"}]},"homeURL":"http:\/\/richpersian.com\/demo","is_submit_post":"","is_submit_project":"","is_single":"","max_images":"5","user_confirm":"1","max_cat":"3","confirm_message":"Are you sure to archive this?","map_zoom":"8","map_center":{"latitude":10,"longitude":106},"fitbounds":"","limit_free_msg":"You have reached the maximum number of Free posts. Please select another plan.","error":"Please fill all require fields.","geolocation":"0","date_format":"F j, Y","time_format":"g:i a","dates":{"days":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],"daysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat","Sun"],"daysMin":["Su","Mo","Tu","We","Th","Fr","Sa","Su"],"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"global_map_style":null,"pay_to_bid":"1","bid_success_msg":"You have bid successfully. No credit left","yes":"Yes","no":"No","search_result_msg":" RESULT OF  ","search_result_msgs":" RESULTS OF ","max_skill_text":"You can only choose 5!","max_cat_text":"You can only choose 3!","max_skill":"5","user_ID":"0","switch_skill":"0","gg_captcha":"","view_all_text":"<a href=\"http:\/\/richpersian.com\/demo\/projects\/\" class=\"view-all\" >View all projects <\/a>","view_all_text_profile":"<a href=\"http:\/\/richpersian.com\/demo\/profiles\/\" class=\"view-all\" >View all profiles <\/a>"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/themes/freelanceengine/includes/aecore/assets/js/appengine.js?ver=1'></script>
+<script type='text/javascript' src='assets/js/appengine.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var raty = {"hint":["bad","poor","nice","good","gorgeous"]};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/themes/freelanceengine/includes/aecore/assets/js/chosen.js?ver=4.5.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/themes/freelanceengine/includes/aecore/assets/js/jquery.validate.min.js?ver=4.5.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/themes/freelanceengine/includes/aecore/assets/js/bootstrap.min.js?ver=1.7.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/themes/freelanceengine/includes/aecore/assets/js/slider-bt.js?ver=1'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/comment-reply.min.js?ver=4.5.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/themes/freelanceengine/assets/js/fre-lib.js?ver=1.7.4'></script>
+<script type='text/javascript' src='assets/js/chosen.js'></script>
+<script type='text/javascript' src='assets/js/jquery.validate.min.js'></script>
+<script type='text/javascript' src='assets/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='assets/js/slider-bt.js'></script>
+<script type='text/javascript' src='assets/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='assets/js/fre-lib.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var fre_fronts = {"portfolio_img":"Please select an image!"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/themes/freelanceengine/assets/js/front.js?ver=1.7.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/themes/freelanceengine/assets/js/moment.min.js?ver=1.7.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/themes/freelanceengine/assets/js/bootstrap-datetimepicker.min.js?ver=1.7.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/themes/freelanceengine/assets/js/index.js?ver=1.7.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='assets/js/front.js'></script>
+<script type='text/javascript' src='assets/js/moment.min.js'></script>
+<script type='text/javascript' src='assets/js/bootstrap-datetimepicker.min.js'></script>
+<script type='text/javascript' src='assets/js/index.js'></script>
+<script type='text/javascript' src='assets/js/sortable.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var ae_ms_localize = {"max_milestone":"5","remove_milestone_confirm":"Are you sure to delete this?"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/plugins/fre_milestone//assets/js/ae-milestone.js?ver=1.0'></script>
+<script type='text/javascript' src='assets/js/ae-milestone.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var date_format = "mm\/dd,\/yyyy";
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/plugins/ae_fields//assets/field.js?ver=1.0'></script>
+<script type='text/javascript' src='assets/js/field.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var fre_credit_globals = {"currency":{"code":"","icon":"","align":"1"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/plugins/fre_credit/assets/fre_credit_pluginjs.js?ver=1.0'></script>
+<script type='text/javascript' src='assets/js/fre_credit_pluginjs.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var ae_plugin_globals = {"no_message":"<span class=\"no-message\"><i class=\"fa fa-exclamation\"><\/i>You have not created any converstation yet. <br\/>\r\nPlease come back to your biders list in Project detail for starting a conversation with biders.<\/span>","no_reply":"<span class=\"no-message\"><i class=\"fa fa-exclamation\"><\/i>You have not created any converstation yet. <br\/>\r\nPlease come back to your biders list in Project detail for starting a conversation with biders.<\/span>","user_ID":"0","is_mobile":"","private_message_link":"http:\/\/richpersian.com\/demo\/profile\/"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/plugins/fre_private_message/assets/pluginjs.js?ver=1.0'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/themes/freelanceengine/includes/aecore/social/js/authentication.js?ver=4.5.4'></script>
+<script type='text/javascript' src='assets/js/pluginjs.js'></script>
+<script type='text/javascript' src='assets/js/authentication.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var facebook_auth = {"appID":"1234234","auth_url":"http:\/\/richpersian.com\/demo\/?action=authentication"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/themes/freelanceengine/includes/aecore/social/js/facebookauth.js?ver=4.5.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/wp-embed.min.js?ver=4.5.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.11.2.1'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://richpersian.com/demo/wp-content/plugins/js_composer/assets/lib/bower/jquery-ui-tabs-rotate/jquery-ui-tabs-rotate.min.js?ver=4.11.2.1'></script>
+<script type='text/javascript' src='assets/js/facebookauth.js'></script>
+<script type='text/javascript' src='assets/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='assets/js/js_composer_front.min.js'></script>
+<script type='text/javascript' src='assets/js/tabs.min.js'></script>
+<script type='text/javascript' src='assets/js/jquery-ui-tabs-rotate.min.js'></script>
 		<script type="text/template" id="milestone_template">
 		    <span class="arrow-milestone-item"><i class="fa fa-arrows-v"></i></span>
 				<input type="text" data-index="{{= position_order }}" class="txt-milestone-item" value="{{= post_title }}">

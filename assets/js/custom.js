@@ -1,4 +1,5 @@
 $(document).ready(function(){
+/********** range slider for post-request page *********/
 	$( function() {
 		$( "#slider_range_amount" ).slider({
 			range: true,
@@ -56,4 +57,7 @@ $(document).ready(function(){
 		$( "#pr_milestone" ).val( "$" + $( "#slider_range_milestone" ).slider( "values", 0 ) + " - $" + $( "#slider_range_milestone" ).slider( "values", 1 ) );
 		
 	} );
+/********** end range slider for post-request page *********/
+
+	
 });
