@@ -471,7 +471,9 @@ textarea.form-control {
 /****************** end stype homepage *******************/
 
 /***************** style job posting page ***************/
-
+.job_posting_page #body_content_top {
+    background: url(../images/body_bg.jpg) repeat-y;
+}
 form .number_form {
     background: url('../images/bg_flower.png');
     background-repeat: no-repeat;
