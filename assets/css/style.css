@@ -259,7 +259,7 @@ li {
     display: inline-block;
     vertical-align: top;
 }
-#body_content_bot {
+#footer_public {
     background: #000;
     text-align: center;
     font-weight: bold;
@@ -267,10 +267,10 @@ li {
     color: white;
     padding: 10px;
 }
-#body_content_bot .container .row {
+#footer_public .container .row {
     position: relative;
 }
-#body_content_bot .no_function_bot {
+#footer_public .no_function_bot {
     position: absolute;
     top: 10px;
     width: 25%;
@@ -945,3 +945,344 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 }
 
 /*************** end style post request page ***************/
+
+/*************** style milestone page *****************/
+
+.hb_milestone_one {
+    background: #fd7e84;
+    line-height: 50px;
+}
+.hb_milestone_one_content {
+    color: black;
+    font-weight: 500;
+}
+.hb_milestone_one_content a {
+    color: black;
+}
+.hb_milestone_one_content span {
+    margin: 0 10px;
+}
+.hb_milestone_two {
+    background: #ea6267;
+}
+.hb_milestone_two_left h3 {
+    color: #fff;
+    margin-top: 53px;
+    font-weight: 700;
+}
+.hb_milestone_tow_right {
+    background: #ca3238;
+    height: 100%;
+    text-align: center;
+    padding: 20px 10px;
+}
+.hb_milestone_tow_right button {
+    border: 0;
+    background: #fd7e84;
+    border-radius: 3px;
+    padding: 5px 15px;
+    font-weight: 600;
+}
+.hb_milestone_tow_right b {
+    color: white;
+    font-size: 20px;
+    margin: 5px 0;
+    display: inline-block;
+}
+.hb_milestone_tow_right p {
+    margin: 0;
+    font-weight: 500;
+}
+#body_content.milestone-page {
+    box-shadow: none;
+}
+#body_milestone {
+    background: url(../images/body_bg.jpg) repeat-y;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.body_milestone_content h3 {
+    color: #293b4f;
+    font-weight: bold;
+}
+.body_milestone_cone {
+    background: #fff;
+    padding: 1px 30px 20px 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px;
+}
+// .body_milestone_cone h3 {
+//     color: #293b4f;
+//     font-weight: bold;
+// }
+.body_milestone_cone h3 i {
+    color: white;
+    border-radius: 50%;
+    background: #293b4f;
+    width: 24px;
+    text-align: center;
+}
+.secure_line {
+    background: #ea6267;
+    height: 12px;
+    border-radius: 4px;
+    position: relative;
+}
+.secure_line:after {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    background: #ca3238;
+    height: 12px;
+    border-radius: 4px;
+    width: 40%;
+}
+.secure_payment_point {
+    margin: 20px 0;
+}
+.secure_payment_point label {
+    width: 95px;
+    height: 100px;
+    background: #76c5f0;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    font-size: 18px;
+    position: relative;
+    margin-right: 60px;
+}
+.secure_payment_point label:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    content: "";
+    background: #499cc9;
+    width: 95px;
+    height: 60px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.secure_payment_point label:nth-child(2) {
+    background: #f4ac02;
+}
+.secure_payment_point label:nth-child(2):after {
+    background: #cc930b;
+    height: 70px;
+}
+.secure_payment_point label:nth-child(3) {
+    background: #fc7f2c;
+}
+.secure_payment_point label:nth-child(3):after {
+    background: #df5f0a;
+    height: 50px;
+}
+.create_milestone {
+    background: #f7f7f7;
+    padding: 15px 20px 20px 15px;
+}
+.create_milestone p {
+    font-weight: bold;
+    font-size: 21px;
+    color: #293b4f;
+}
+.create_milestone_money input[type=text] {
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #cfcfcf;
+    
+}
+.milestone_enter_money {
+    width: 33%;
+    margin-right: 5%;
+    position: relative;
+    display: inline-block;
+}
+.milestone_enter_money input {
+    width: 100%;
+    padding: 5px 60px;
+}
+.milestone_enter_money:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "$";
+    width: 50px;
+    text-align: center;
+    line-height: 40px;
+    background: #cfcfcf;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    display: block;
+    font-weight: 800;
+    font-size: 16px;
+}
+.milestone_enter_money:after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    content: "USD";
+    width: 50px;
+    text-align: center;
+    line-height: 40px;
+    background: #cfcfcf;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    display: block;
+    font-weight: 500;
+    font-size: 16px;
+}
+.milestone_input_decription {
+    width: 61%;
+    padding: 5px 20px;
+}
+.create_milestone_money p {
+    text-align: right;
+    margin: 15px 0 0 0;
+}
+.create_milestone .create_milestone_money p span {
+    background: #ea6267;
+    padding: 5px 15px;
+    border-radius: 3px;
+    color: white;
+    font-weight: normal;
+    font-size: 16px;
+}
+.milestone_refund {
+    background: #f7f7f7;
+    padding: 15px;
+    margin-top: 15px;
+}
+.milestone_refund_left {
+    float: left;
+}
+.milestone_refund_left .fa-usd {
+    color: white;
+    background: #ea6267;
+    width: 20px;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+.milestone_refund_left span {
+    font-size: 15px;
+    font-weight: 500;
+}
+.milestone_refund_left .refund_depoist {
+    margin-left: 50px;
+    font-style: normal;
+    font-weight: 500;
+}
+.milestone_refund_right {
+    float: right;
+}
+.milestone_refund_right span {
+    border: 1px solid #ea6267;
+    border-radius: 3px;
+    padding: 5px 25px;
+    font-size: 15px;
+}
+.invoices_milestone {
+    background: #fff;
+    padding: 1px 30px 20px 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+    box-shadow: 0 0 5px;
+}
+.invoices_table {
+    padding: 15px 15px 50px 15px;
+    background: #f7f7f7;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 4px;
+}
+.invoices_table table {
+    width: 100%;
+}
+.invoices_table tr {
+    border-bottom: 1px solid #d4d4d4;
+}
+.invoices_table th {
+    text-align: center;
+    padding-bottom: 10px;    
+}
+.invoices_table th:nth-child(1) {
+    text-align: left;
+}
+.invoices_table tbody tr td:nth-child(1) {
+    text-align: left;
+}
+.invoices_table tbody tr td:nth-child(4) span {
+    background: #ea6267;
+    padding: 5px 10px;
+    border-radius: 3px;
+    color: white;
+}
+.invoices_table tbody tr td:nth-child(5) span {
+    background: #c2c2c2;
+    padding: 5px 21px;
+    border-radius: 3px;
+}
+.invoices_table tbody tr td {
+    padding: 10px 0;
+}
+.attached_milestone {
+    background: #fff;
+    padding: 1px 30px 20px 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px;
+}
+.attached_milestone h3 {
+    float: left;
+}
+.attached_milestone div {
+    float: right;
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 5px 20px;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+.attached_milestone p {
+    margin: 0;
+}
+.milestone_sidebar_content {
+    background: #fff;
+    padding: 20px 20px 30px 20px;
+    box-shadow: 0 0 5px;
+}
+.milestone_sc_one img {
+    display: block;
+    float: left;
+    width: 30%;
+}
+.milestone_sc_one_right {
+    float: left;
+    width: 70%;
+    padding-left: 10px;
+}
+.milestone_sc_one_right h4 {
+    margin-top: 0px;
+}
+.milestone_sc_two {
+    margin-top: 30px;
+}
+.milestone_sc_two button {
+    border: 3px solid #ca3238;
+    border-radius: 5px;
+    background: #ea6267;
+    color: white;
+    padding: 10px 0px;
+    width: 45%;
+    margin-right: 4%;
+}
+.milestone_footer #footer_public {
+    background: #ff5d5e;
+}
+.milestone_footer #footer_content {
+    background: #000;
+}
+/*************** style milestone page *****************/
