@@ -460,8 +460,8 @@
       <div class="row">
         <div class="col-md-4 col-xs-4">
           <ul class="btn-menu-call">
-            <li><a href="javascript:void(0);" class="trigger-overlay trigger-menu"><i class="fa fa-bars"></i><span>MENU</span></a></li>
-            <li><a href="javascript:void(0);" class="trigger-overlay trigger-search"><i class="fa fa-search"></i><span>SEARCH</span></a></li>
+            <li><a href="javascript:void(0);" class="trigger-overlay trigger-menu"><i class="fa fa-bars"></i><span>Menu</span></a></li>
+            <li><a href="javascript:void(0);" class="trigger-overlay trigger-search"><i class="fa fa-search"></i><span>Search</span></a></li>
           </ul>
         </div>
         <div class="col-md-4 col-xs-4">

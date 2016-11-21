@@ -254,7 +254,7 @@ li {
     margin: 0 20px 0 15px;
 }
 .product_item_content div span {
-    color: #ec6367;
+    color: #18a049;
     font-weight: bold;
     display: inline-block;
     vertical-align: top;
@@ -462,9 +462,8 @@ textarea.form-control {
     padding:0 !important;
     margin:0 !important;
 }
-#stripe_modal .modal-header .close  {
-    width: 30px;
-    height: 30px;
+.btn-menu-call .trigger-menu span, .btn-menu-call .trigger-search span  {
+    font-size: 18px;
 }
 
 
@@ -473,6 +472,7 @@ textarea.form-control {
 /***************** style job posting page ***************/
 .job_posting_page #body_content_top {
     background: url(../images/body_bg.jpg) repeat-y;
+    background-size: cover;
 }
 form .number_form {
     background: url('../images/bg_flower.png');
@@ -1002,6 +1002,7 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
     background: url(../images/body_bg.jpg) repeat-y;
     padding-top: 30px;
     padding-bottom: 30px;
+    background-size: cover;
 }
 .body_milestone_content h3 {
     color: #293b4f;
