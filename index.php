@@ -2077,7 +2077,13 @@ var facebook_auth = {"appID":"1234234","auth_url":"http:\/\/richpersian.com\/dem
             </div>
           </div>
         </div>
-        <div id="body_content_bot">
+      </div>
+    </div>
+  </div>
+  <div id="footer">
+    <div class="container-fluid">
+      <div class="row">
+        <div id="footer_public">
           <div class="container">
             <div class="row">
               <div class="col-sm-6 body_content_bot_left">
@@ -2092,12 +2098,6 @@ var facebook_auth = {"appID":"1234234","auth_url":"http:\/\/richpersian.com\/dem
             </div>
           </div>
         </div>
-      </div>
-    </div>
-  </div>
-  <div id="footer">
-    <div class="container-fluid">
-      <div class="row">
         <div id="footer_content">
           <div class="container">
             <div class="row footer_content_top">

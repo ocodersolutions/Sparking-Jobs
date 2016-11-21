@@ -17,7 +17,10 @@
 font-family:'FontAwesome';
 src:url('fonts/fontawesome-webfont.eot?v=4.3.0');
 src:url('fonts/fontawesome-webfont.eot?#iefix&v=4.3.0') format('embedded-opentype'),url('fonts/fontawesome-webfont.woff2?v=4.3.0') format('woff2'),url('fonts/fontawesome-webfont.woff?v=4.3.0') format('woff'),url('fonts/fontawesome-webfont.ttf?v=4.3.0') format('truetype'),url('fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}
-
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,700,800,900');
+* {
+    font-family: 'Raleway', sans-serif;
+}
 body{
 	overflow-x:hidden;
 }
@@ -25,7 +28,7 @@ body, button, input, select, textarea {
 	color: #404040;
 	font-size: 14px;
 	line-height: 1.7;
-	font-family: "proxima-nova", sans-serif;
+	// font-family: "proxima-nova", sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
 	clear: both;
@@ -33,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 1.5;
 	font-weight: 300;
 	margin-bottom: 20px;
-	font-family: "proxima-nova", sans-serif;
+	// font-family: "proxima-nova", sans-serif;
 }
 h1 {
 	font-size: 31px;
