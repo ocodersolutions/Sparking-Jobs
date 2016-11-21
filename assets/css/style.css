@@ -1438,6 +1438,7 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 .employer_support {
     position: relative;
     height: 188px;
+    margin-bottom: 40px;
 }
 .employer_support i {
     width: 110px;
