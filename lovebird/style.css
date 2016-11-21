@@ -19,7 +19,7 @@ src:url('fonts/fontawesome-webfont.eot?v=4.3.0');
 src:url('fonts/fontawesome-webfont.eot?#iefix&v=4.3.0') format('embedded-opentype'),url('fonts/fontawesome-webfont.woff2?v=4.3.0') format('woff2'),url('fonts/fontawesome-webfont.woff?v=4.3.0') format('woff'),url('fonts/fontawesome-webfont.ttf?v=4.3.0') format('truetype'),url('fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,500,700,800,900');
 * {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 body{
 	overflow-x:hidden;
@@ -1277,7 +1277,7 @@ header {
 	bottom: 70px;
 }
 .content-before-after{
-	width:1170px;
+	width:1140px;
 	position:absolute;
 	left:0;
 	right:0;
@@ -1286,12 +1286,12 @@ header {
 	margin-top:-70px;
 }
 .content-before-after .content-right{
-	width:285px;
+	width:300px;
 	float:left;
 }
 .content-before-after .content-right h3{
 	color: #c5d8ec;
-	font-size: 27px;
+	font-size: 36px;
 	margin:0 0 40px;
 	text-align: left;
 }
@@ -1300,13 +1300,13 @@ header {
 }
 .content-before-after.left-position .content-right h3{
 	color: #c5d8ec;
-    font-size: 27px;
+    font-size: 36px;
     margin: 0 0 40px;
     text-align: left;
 }
 .content-detail-wrapper h3 {
 	color: #c5d8ec;
-    font-size: 27px;
+    font-size: 36px;
     margin: 0 0 40px;
     text-align: left;
 }
@@ -1317,7 +1317,7 @@ header {
     padding: 5px 15px;
     font-weight: 500;
     color: #c5d8ec;
-    font-size: 20px;
+    font-size: 18px;
 }
 .content-before-after.left-position .btn-header{
 	border-radius: 0;
@@ -1325,7 +1325,7 @@ header {
     color: #c5d8ec;
     font-weight: 500;
     padding: 5px 15px;
-    font-size: 20px;
+    font-size: 18px;
 }
 .content-before-after.left-position .btn-header:hover{
 	color:#fff;
@@ -1334,9 +1334,9 @@ header {
 	background:#fff;
 }
 .content-before-after .content-left{
-	width:300px;
-	float:right;
-	text-align:center;
+	width:387px;
+	float: right;
+	text-align: center;
 }
 .content-before-after.right-position .content-detail-wrapper h3{
 	color: #c5d8ec;
@@ -7934,6 +7934,39 @@ button.menu__label{
     text-align: center;
     margin: 13px 0;
 }
+.wrapper-after .center_position a {
+	color: white;
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+}
+.wrapper-after .center_position a:after {
+	content: "";
+	display: block;
+	width: 100px;
+	height: 1px;
+	border-bottom: 4px solid white;
+	margin: 0 auto;
+}
+.wrapper-before .center_position a {
+	color: #eb6367;
+	font-size: 24px;
+    font-weight: bold;
+    position: relative;
+}
+.wrapper-before .center_position a:after {
+	content: "";
+	display: block;
+	width: 100px;
+	height: 1px;
+	border-bottom: 4px solid #eb6367;
+	margin: 0 auto;
+}
 .wrapper-before .logo_before_after {
 	margin-top: 14px;
+}
+@media (min-width: 1700px) {
+    body .content-before-after {
+        width: 1620px;
+    }
 }

@@ -465,7 +465,9 @@ textarea.form-control {
 .btn-menu-call .trigger-menu span, .btn-menu-call .trigger-search span  {
     font-size: 18px;
 }
-
+#header-wrapper .top-header .login-form-header-wrapper a {
+    font-size: 18px;
+}
 
 /****************** end stype homepage *******************/
 
