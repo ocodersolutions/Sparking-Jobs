@@ -465,8 +465,8 @@
           </ul>
         </div>
         <div class="col-md-4 col-xs-4">
-          <a href="http://richpersian.com/demo" class="logo site_logo_white"><img alt="Freelancer" src="assets/images/logo-fre-white.png" /></a>
-          <a href="http://richpersian.com/demo" class="logo site_logo_black"><img alt="Freelancer" src="assets/images/logo-fre-black.png" /></a>
+          <a href="http://richpersian.com/demo" class="logo site_logo_white"></a>
+          <a href="http://richpersian.com/demo" class="logo site_logo_black">Sparking Jobs</a>
         </div>
         <div class="col-md-4 col-xs-4">
         	<div class="login-form-header-wrapper">

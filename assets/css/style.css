@@ -468,6 +468,20 @@ textarea.form-control {
 #header-wrapper .top-header .login-form-header-wrapper a {
     font-size: 18px;
 }
+#header-wrapper.sticky .site_logo_black {
+    color: #eb6367;
+    font-size: 24px;
+    font-weight: bold !important;
+    position: relative;
+}
+#header-wrapper.sticky .site_logo_black:after {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 1px;
+    border-bottom: 4px solid #eb6367;
+    margin: 0 auto;
+}
 
 /****************** end stype homepage *******************/
 
