@@ -152,10 +152,11 @@ li {
 .body_sidebar_one h2 {
     font-weight: 700;
     margin-top: 0;
-    font-size: 25px;
+    font-size: 21px;
 }
 .body_sidebar_one p {
     font-weight: 500;
+    font-size: 16px;
 }
 .body_sidebar_one span {
     display: inline-block;
@@ -168,6 +169,7 @@ li {
     line-height: 25px;
     padding: 5px 10px;
     color: #f5f6f6;
+    font-size: 16px;
 }
 .body_sidebar_two {
     background: #fff;
@@ -179,7 +181,7 @@ li {
 .body_sidebar_two h3 {
     font-weight: 700;
     margin-top: 0;
-    font-size: 23px;
+    font-size: 21px;
 }
 .body_sidebar_two img {
     display: inline-block;
@@ -203,8 +205,8 @@ li {
 }
 .body_sidebar_three h3 {
     margin-top: 0;
-    font-weight: 800;
-    font-size: 18px;
+    font-weight: bold;
+    font-size: 21px;
 } 
 .recently_view_item {
     margin: 25px 0;
@@ -263,7 +265,7 @@ li {
     background: #000;
     text-align: center;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 24px;
     color: white;
     padding: 10px;
 }
@@ -294,9 +296,11 @@ li {
     margin: 0;
     font-weight: 500;
     color: #a4a9af;
+    font-size: 15px;
 }
 .footer_content_top .footer_app_store p {
     margin-bottom: 10px;
+    font-size: 16px;
 }
 .footer_line {
     height: 1px;
@@ -310,6 +314,7 @@ li {
 .copyright_top {
     margin-bottom: 20px;
     color: #fff;
+    font-size: 15px;
 }
 .copyright_top i {
     font-style: normal;
@@ -317,6 +322,7 @@ li {
 .copyright_bot p {
     margin: 0;
     color: #fff;
+    font-size: 15px;
 }
 .footer_link {
     text-align: right;
@@ -341,7 +347,7 @@ li {
 }
 .footer_sparking_left div {
     color: white;
-    font-size: 20px;
+    font-size: 21px;
     font-weight: 700;
     padding: 15px 0 20px 0;
 }
@@ -357,7 +363,7 @@ li {
     color: white;
     font-weight: 700;
     text-align: right;
-    font-size: 20px;
+    font-size: 21px;
     line-height: 70px;
 }
 
@@ -480,7 +486,7 @@ textarea.form-control {
     width: 100px;
     height: 1px;
     border-bottom: 4px solid #eb6367;
-    margin: 0 auto;
+    margin: 4px auto 0 auto;
 }
 
 /****************** end stype homepage *******************/
