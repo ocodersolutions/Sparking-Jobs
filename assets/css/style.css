@@ -513,17 +513,19 @@ form .form_group_post {
     margin-bottom: 70px;
 }
 .form_group_post .label_form {
-    font-weight: 800;
-    font-size: 18px;
+    font-weight: bold;
+    font-size: 24px;
     margin-bottom: 20px;
 }
 .form_group_post #select_op_form {
     border-radius: 15px;
     border: 1px solid #a7a6a6;
+    font-size: 16px;
 }
 .form_group_post .project_name {
     display: block;
-    font-weight: 500;
+    font-size: 12px;
+    font-weight: bold;
 }
 .form_group_post input[type=text] {
     width: 100%;
@@ -548,6 +550,7 @@ form .form_group_post {
     width: 100%;
     padding: 10px 20px;
     margin-bottom: 60px;
+    font-size: 16px;
 }
 .form_group_post button {
     width: 35%;
@@ -582,7 +585,7 @@ form .form_group_post {
     margin-right: 15px;
     line-height: 20px;
     position: relative;
-    font-weight: 500;
+    font-weight: bold;
     padding-left: 10px;
 }
 .form_group_post .label_radio:before {
@@ -656,7 +659,8 @@ form .form_group_post {
     width: 30%;
     background: #ea6267;
     color: white;
-    font-weight: 700;
+    font-size: 18px;
+    font-weight: bold;
     vertical-align: top;
 }
 .form_group_post p {
@@ -818,7 +822,7 @@ ul.pagination li {display: inline;}
 ul.pagination li a {
     color: black;
     float: left;
-    padding: 8px 16px;
+    padding: 8px 20px;
     text-decoration: none;
     transition: background-color .3s;
     border: 1px solid #ea6267;
@@ -1004,18 +1008,20 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
     border: 0;
     background: #fd7e84;
     border-radius: 3px;
-    padding: 5px 15px;
-    font-weight: 600;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 5px 14px;
 }
 .hb_milestone_tow_right b {
     color: white;
-    font-size: 20px;
+    font-size: 24px;
     margin: 5px 0;
     display: inline-block;
 }
 .hb_milestone_tow_right p {
     margin: 0;
     font-weight: 500;
+    font-size: 18px;
 }
 #body_content.milestone-page {
     box-shadow: none;
@@ -1029,6 +1035,7 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 .body_milestone_content h3 {
     color: #293b4f;
     font-weight: bold;
+    font-size: 21px;
 }
 .body_milestone_cone {
     background: #fff;
@@ -1072,9 +1079,9 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
     background: #76c5f0;
     border-radius: 10px;
     text-align: center;
-    padding-top: 5px;
+    padding-top: 8px;
     color: white;
-    font-size: 18px;
+    font-size: 16px;
     position: relative;
     margin-right: 60px;
 }
@@ -1109,14 +1116,14 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 }
 .create_milestone p {
     font-weight: bold;
-    font-size: 21px;
+    font-size: 18px;
     color: #293b4f;
 }
 .create_milestone_money input[type=text] {
     height: 40px;
     border-radius: 5px;
     border: 1px solid #cfcfcf;
-    
+    font-size: 16px;
 }
 .milestone_enter_money {
     width: 33%;
@@ -1141,7 +1148,7 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
     border-top-left-radius: 5px;
     display: block;
     font-weight: 800;
-    font-size: 16px;
+    font-size: 18px;
 }
 .milestone_enter_money:after {
     position: absolute;
@@ -1172,7 +1179,7 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
     border-radius: 3px;
     color: white;
     font-weight: normal;
-    font-size: 16px;
+    font-size: 15px;
 }
 .milestone_refund {
     background: #f7f7f7;
@@ -1208,6 +1215,7 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
     border-radius: 3px;
     padding: 5px 25px;
     font-size: 15px;
+    color: #ea6267;
 }
 .invoices_milestone {
     background: #fff;
@@ -1261,6 +1269,7 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 }
 .attached_milestone h3 {
     float: left;
+    font-size: 18px;
 }
 .attached_milestone div {
     float: right;
@@ -1303,6 +1312,7 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
     padding: 10px 0px;
     width: 45%;
     margin-right: 4%;
+    font-size: 16px;
 }
 .milestone_footer #footer_public {
     background: #ff5d5e;
@@ -1325,6 +1335,7 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
     color: white;
     font-weight: bold;
     margin: 140px 0 50px 0;
+    font-size: 42px;
 }
 .body_support_top_content form {
     position: relative;
@@ -1332,23 +1343,24 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 .body_support_top_content input[type=text] {
     width: 100%;
     border-radius: 10px;
-    height: 60px;
+    height: 70px;
     padding: 0 20px;
     border: 2px solid #ea6267;
+    font-size: 18px;
 }
 .body_support_top_content button {
     position: absolute;
     top: 0;
     right: 0;
     width: 20%;
-    height: 60px;
+    height: 70px;
     border: 0;
     background: #ea6267;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     color: white;
     font-weight: 500;
-    font-size: 18px;
+    font-size: 28px;
 }
 .body_support_middle {
     padding: 20px 0;
@@ -1366,20 +1378,19 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
     border: 2px solid #167aa2;
 }
 .body_support_middle_item i {
-    width: 50px;
-    height: 50px;
-    line-height: 50px;
+    width: 60px;
+    line-height: 60px;
     text-align: center;
     border-radius: 50%;
     margin-left: 2%;
-    font-size: 26px;
+    font-size: 36px;
     margin-right: 15%;
 }
 .support_middle_item_1 i {
     background: #1c8cb9;
 }
 .body_support_middle_item span {
-    font-size: 25px;
+    font-size: 32px;
 }
 .support_middle_item_2 {
     background: #ea6267;
@@ -1415,6 +1426,7 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 .support_bot_content h4 {
     font-weight: 600;
     margin-bottom: 20px;
+    font-size: 24px;
 }
 .support_bot_content div {
     background: #f3f2f2;
@@ -1423,6 +1435,7 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 }
 .support_bot_content h5 {
     font-weight: 800;
+    font-size: 16px;
 }
 .support_bot_content p {
     margin: 10px 0 0 0;
@@ -1446,6 +1459,7 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 }
 .subpport_bot_pagination ul.pagination li a {
     border: 1px solid #c89195;
+    font-size: 21px;
 }
 .subpport_bot_pagination .pagination>li:first-child>a {
     border-bottom-left-radius: 7px;
@@ -1487,9 +1501,12 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 }
 .employer_support div p:first-child {
     color: white;
-    font-weight: 600;
-    font-size: 17px;
+    font-weight: bold;
+    font-size: 18px;
     margin-bottom: 30px;
+}
+.employer_support div p:last-child {
+    font-size: 16px;
 }
 
 /*************** end style support page *****************/
