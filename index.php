@@ -213,7 +213,7 @@
       box-shadow: 0 1px 0 #20638f;
     }
     #header-wrapper.sticky {
-      background-color: #2980B9 !important;
+      background-color: #293b4f !important;
     }
     .box-shadow-style-theme {
       -webkit-box-shadow: 0 1px 0 #20638f;
@@ -331,6 +331,12 @@
       -webkit-box-shadow: 0 2px 0 #2c689c;
       -moz-box-shadow: 0 2px 0 #2c689c;
       box-shadow: 0 2px 0 #2c689c;
+    }
+    #header-wrapper.sticky .login-form-header-wrapper a {
+      color: #fff;
+    }
+    #header-wrapper.sticky .login-form-header-wrapper a.register.register-btn {
+      border: 1px solid #fff;
     }
   </style>
 </head>
